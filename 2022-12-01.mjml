@@ -1,0 +1,303 @@
+<mjml>
+	<mj-head>
+		<mj-title>Team Switch Nieuwsbrief</mj-title>
+		<mj-breakpoint width="300px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="40px" />
+			<mj-button
+				border-radius="100px"
+				background-color="#ff005b"
+				color="white"
+				height="50px"
+				width="200px"
+				padding-bottom="40px"
+				font-size="14px"
+				letter-spacing="1px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="21px"
+				align="center"
+				padding="0 20px"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body background-color="#eee" width="600px">
+		<!-- hero -->
+		<mj-hero padding-top="60px" background-color="transparent">
+			<mj-image
+				padding-bottom="0px"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/header_dec22.jpg"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=header"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/22dec01.jpg"
+					href="https://teamswitch.nl/teamapp/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=teamapp"
+				/>
+				<mj-text mj-class="title">
+					Team-App voor blijere medewerkers
+				</mj-text>
+				<mj-text>
+					Smoelenboek, nieuwsberichten, social media-platform,
+					huisregels, een eigen spel en veel meer… alles maakten we in
+					één Team-App voor de 200 hoveniers van Weverling
+					Groenproviders. Met zo’n app houd je de interne lijntjes
+					kort en zorg je voor meer binding tussen jou en je
+					collega’s! Lees meer over hoe deze employer branding-tool
+					bij veel bedrijven en straks ook bij jou werkt en bijdraagt
+					aan trouwere medewerkers.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/button-lees.png"
+					href="https://teamswitch.nl/teamapp/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=teamapp"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/22dec02.jpg"
+					href="https://teamswitch.nl/werk/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=werk"
+				/>
+				<mj-text mj-class="title">
+					’t Kleinste stadion van Nederland: De Johan Cruijff ArenA
+				</mj-text>
+				<mj-text>
+					Grootse herinneringen haal je in huis met het
+					miniatuurstadion van Royal Delft in je kast. Switch bedacht
+					een idee, deed de fotografie en maakte een advertentie voor
+					échte Ajax-fans en liefhebbers van het stadion. Een
+					webpagina, toiletposter en narrowcasting visual in de Johan
+					Cruijff ArenA volgden.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/button-werk.png"
+					href="https://teamswitch.nl/werk/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=werk"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/22dec03.jpg"
+					href="https://teamswitch.nl/drukwerk/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=drukwerk"
+				/>
+				<mj-text mj-class="title">
+					Verantwoordelijke Breewel-chauffeurs worden ‘Ridder van de
+					Weg’
+				</mj-text>
+				<mj-text>
+					Rijdt een chauffeur al jaren schadevrij, dan beloont Breewel
+					dat! Met speciale aandacht en een officieel bronzen,
+					zilveren of gouden certificaat, word je feitelijk geridderd
+					tot ‘Ridder van de Weg’. Niks digitaal, maar ‘gewoon’ een
+					heel mooi waardepapier, inclusief foliedruk om de
+					feestvreugde nog groter te maken.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/button-drukwerk.png"
+					href="https://teamswitch.nl/drukwerk/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=drukwerk"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/22dec04.jpg"
+					href="http://www.cityhub.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=cityhub"
+				/>
+				<mj-text mj-class="title">
+					Nieuwe website voor City Hub maakt steden groener
+				</mj-text>
+				<mj-text>
+					Lang geleden maakten we voor City Hub het logo en de hele
+					huisstijl, inclusief de website. Maar vele jaren later is
+					zo’n website wel weer toe aan een nieuwe versie. Eén die
+					weer veilig is, beter vindbaar is, meer mensen motiveert en
+					natuurlijk weer past bij het actuele tijdsbeeld; het aanbod
+					verandert immers ook. Net als stijl, functionaliteit en
+					technische mogelijkheden. Nu is City Hub weer helemaal klaar
+					voor de toekomst!
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/button-bekijk.png"
+					href="http://www.cityhub.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=cityhub"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 2 col -->
+		<!-- <mj-section padding="20px" padding-bottom="0px">
+			<mj-column width="270px">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/22dec02.jpg"
+					href="https://teamswitch.nl/klanten/360talent/"
+					alt="Een doos met snoepgoed en goede marketing"
+				/>
+				<mj-text mj-class="title"
+					>’t Kleinste stadion van Nederland: De Johan Cruijff
+					ArenA</mj-text
+				>
+				<mj-text>
+					Grootse herinneringen haal je in huis met het
+					miniatuurstadion van Royal Delft in je kast. Switch bedacht
+					een idee, deed de fotografie en maakte een advertentie voor
+					échte Ajax-fans en liefhebbers van het stadion. Een
+					webpagina, toiletposter en narrowcasting visual in de Johan
+					Cruijff ArenA volgden.<br /><br />
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/button-case.png"
+					href="https://teamswitch.nl/klanten/360talent/"
+					alt="Bekijk de case knop"
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="270px">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/mar3.jpg"
+					href="https://teamswitch.nl/employer-branding/"
+					alt="Employer branding"
+				/>
+				<mj-text mj-class="title"
+					>Werf vanuit je merkwaarden met employer branding</mj-text
+				>f
+				<mj-text>
+					Door écht tijd en energie te steken in een krachtig
+					werkgeversmerk ben je de concurrentie een flinke stap voor.
+					Geef je prioriteit aan je employer branding, dan kies je
+					voor oprechte communicatie vanuit je merkwaarden, en maak je
+					van iedere collega een ambassadeur. Met een sterke
+					combinatie van impactvolle middelen zorg je ervoor dat je
+					jezelf presenteert als dé interessantste werkgever in jouw
+					segment. Lees meer op onze site!
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/button-lees.png"
+					href="https://teamswitch.nl/employer-branding/"
+					alt="Lees meer knop"
+				/>
+			</mj-column>
+		</mj-section> -->
+		<!-- socials -->
+		<mj-section padding-bottom="0" background-color="#fff">
+			<mj-column>
+				<mj-text>
+					Volg ons op sociale media voor meer interessante
+					marketing-tips die je kunt delen met je collega’s!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+			<mj-column width="50px">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/social/switch-facebook.png"
+					href="https://www.facebook.com/TeamSwitch.nl"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/social/switch-instagram.png"
+					href="https://www.instagram.com/teamswitch.nl/"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/social/switch-linkedin.png"
+					href="https://www.linkedin.com/company/team-switch/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- footer -->
+		<mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/footer.jpg"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=footer"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- contact alt -->
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text>
+					<a
+						href="mailto:info@teamswitch.nl"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>info@teamswitch.nl</a
+					>
+					<img
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="tel:+31297525580"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>+31 297 52 55 80</a
+					>
+					<img
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=footer"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="40px 0 0" background-color="#eee">
+			<mj-column>
+				<mj-text font-size="12px" align="center"
+					>Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
+					U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig
+					afmelden.</mj-text
+				>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+	</mj-body>
+</mjml>

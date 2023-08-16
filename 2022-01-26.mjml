@@ -1,0 +1,260 @@
+<mjml>
+	<mj-head>
+		<mj-title>Team Switch Nieuwsbrief</mj-title>
+		<mj-breakpoint width="300px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="40px" />
+			<mj-button
+				border-radius="100px"
+				background-color="#ff005b"
+				color="white"
+				height="50px"
+				width="200px"
+				padding-bottom="40px"
+				font-size="14px"
+				letter-spacing="1px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="21px"
+				align="center"
+				padding="0 20px"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body background-color="#eee" width="600px">
+		<!-- <mj-section padding-bottom="0">
+			<mj-column padding-bottom="0">
+				<mj-text mj-class="title" align="left"> Januari 2022 </mj-text>
+			</mj-column>
+		</mj-section> -->
+		<!-- hero -->
+		<mj-hero padding-top="60px" background-color="transparent">
+			<mj-image
+				padding-bottom="0px"
+				src="https://switchserver.nl/nieuwsbrief/teamswitch/img/header.jpg"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/1.jpg"
+					href="https://teamswitch.nl/klanten/bolivia-professional/"
+					alt="Nieuwe etiketten voor Bolivia producten"
+				/>
+				<mj-text mj-class="title">
+					Dubbele salescijfers door rebranding
+				</mj-text>
+				<mj-text>
+					De professionele vul-, plamuur- en reparatiemiddelen van
+					Bolivia waren broodnodig toe aan een nieuw jasje. We zijn
+					gestart met de ontwikkeling van een nieuw logo, waarbij we
+					opvolgend álle producten voorzien hebben van een fris en
+					eigentijds etiket, inclusief een mooie brochure om het af te
+					maken. Het gevolg: een verdubbeling van de sales. Meer lezen
+					en de resultaten zien? Bekijk de case op onze site!
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-case.png"
+					href="https://teamswitch.nl/klanten/bolivia-professional/"
+					alt="Bekijk de case button"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 2 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column width="270px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/2.jpg"
+					href="https://teamswitch.nl/blog/achterstevoren-naar-je-werk/"
+					alt="Anders denken en doen is nu makkelijker dan ooit!"
+				/>
+				<mj-text mj-class="title"
+					>Loop eens achterstevoren naar je werk!</mj-text
+				>
+				<mj-text>
+					Er is niets veiliger dan de rust en regelmaat van routines.
+					Begrijpelijk, maar als het gaat om je marketing kan teveel
+					van hetzelfde er uiteindelijk voor zorgen dat zowel je
+					collega’s als je klanten ingedut raken. Tijd om een switch
+					te maken! Wil je weten hoe? Lees dan onze kersverse blog
+					over achterstevoren naar je werk lopen én meer.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-blog.png"
+					href="https://teamswitch.nl/blog/achterstevoren-naar-je-werk/"
+					alt="Lees de blog button"
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="270px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/3.jpg"
+					href="https://teamswitch.nl/huisstijlen/"
+					alt="Logo's en huisstijlen"
+				/>
+				<mj-text mj-class="title"
+					>Maak impact met een nieuwe huisstijl</mj-text
+				>f
+				<mj-text>
+					Álles waar je merk voor staat, vind je terug in de
+					huisstijl. Zo kun je met een onderscheidend logo en
+					herkenbare huisstijl, in één oogopslag vertellen wie je bent
+					als merk en waar je voor staat. Zodat je doelgroep de
+					voorkeur heeft voor jou, ten koste van je concurrent. Weten
+					hoe wij jouw huisstijl impactvol kunnen maken? Lees dan meer
+					op onze website via de onderstaande knop.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-informatie.png"
+					href="https://teamswitch.nl/huisstijlen/"
+					alt="Meer informatie button"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<!-- <mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image src="https://dummyimage.com/560x300/eee/eee" alt="" />
+				<mj-text mj-class="title">lorem ipsum dolor sit amet</mj-text>
+				<mj-text>
+					lorem ipsum dolor sit amet, consectetur adipiscing elit.
+				</mj-text>
+				<mj-button href="#">Lees meer</mj-button>
+			</mj-column>
+		</mj-section> -->
+		<!-- socials -->
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text>
+					Altijd op de hoogte blijven van nieuws en ontwikkelingen?<br />
+					Volg ons op social.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0">
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-facebook.png"
+					href="https://www.facebook.com/TeamSwitch.nl"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-instagram.png"
+					href="https://www.instagram.com/teamswitch.nl/"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-linkedin.png"
+					href="https://www.linkedin.com/company/team-switch/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- footer -->
+		<mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://switchserver.nl/nieuwsbrief/teamswitch/img/footer.jpg"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- contact alt -->
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text>
+					<a
+						href="https://teamswitch.nl/contact/"
+						style="color: #000000; text-decoration: none"
+					>
+						Rendementsweg 2-Q
+						<img
+							src="https://switchserver.nl/nieuwsbrief/teamswitch/img/seperator.png"
+							alt=""
+						/>
+						3641 SK Mijdrecht</a
+					>
+					<img
+						src="https://switchserver.nl/nieuwsbrief/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl"
+						style="color: #000000; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+		<!-- contact -->
+		<!-- <mj-section>
+			<mj-column width="173px">
+				<mj-text> Rendementsweg 2-Q </mj-text>
+			</mj-column>
+			<mj-column width="20px">
+				<mj-raw>
+					<span
+						style="
+							display: block;
+							background-color: #ff005b;
+							border-radius: 8px;
+							height: 8px;
+							width: 8px;
+                            margin-top: 6px;
+						"
+					></span>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="173px">
+				<mj-text> 3641 SK Mijdrecht </mj-text>
+			</mj-column>
+			<mj-column width="20px">
+				<mj-raw>
+					<span
+						style="
+							display: block;
+							background-color: #ff005b;
+							border-radius: 8px;
+							height: 8px;
+							width: 8px;
+                            margin-top: 6px;
+						"
+					></span>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="173px">
+				<mj-text> TeamSwitch.nl </mj-text>
+			</mj-column>
+		</mj-section> -->
+	</mj-body>
+</mjml>

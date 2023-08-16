@@ -1,0 +1,216 @@
+<mjml>
+	<mj-head>
+		<mj-title>Team Switch Nieuwsbrief</mj-title>
+		<mj-breakpoint width="300px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="40px" />
+			<mj-button
+				border-radius="100px"
+				background-color="#ff005b"
+				color="white"
+				height="50px"
+				width="200px"
+				padding-bottom="40px"
+				font-size="14px"
+				letter-spacing="1px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="21px"
+				align="center"
+				padding="0 20px"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body background-color="#eee" width="600px">
+		<!-- hero -->
+		<mj-hero padding-top="60px" background-color="transparent">
+			<mj-image
+				padding-bottom="0px"
+				src="https://switchserver.nl/nieuwsbrief/teamswitch/img/header_feb22.jpg"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/blog-trends.jpg"
+					href="https://teamswitch.nl/blog/9-webtrends-van-2022/"
+					alt="Nieuwe etiketten voor Bolivia producten"
+				/>
+				<mj-text mj-class="title">
+					Dit zijn dé trends waar jouw site volgens Mark mee gaat
+					scoren
+				</mj-text>
+				<mj-text>
+					Open, schoon en minimalistisch: de websites van nu zijn ware
+					kunstwerken waarin beeld, vorm en tekst in harmonie
+					samenwerken. Wil je weten hoe jij je concurrenten online een
+					stap voor blijft? Lees dan onze blog over de negen trends
+					die jouw site naar een hoger niveau tillen.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-blog.png"
+					href="https://teamswitch.nl/blog/9-webtrends-van-2022/"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 2 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column width="270px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/oz-hami-logo.jpg"
+					href="https://teamswitch.nl/klanten/oz-hami/"
+					alt="Anders denken en doen is nu makkelijker dan ooit!"
+				/>
+				<mj-text mj-class="title"
+					>OZ-Hami: personeel werven met een site die raakt!</mj-text
+				>
+				<mj-text>
+					Voor bloemengigant OZ-Hami maakten we een sprekende website,
+					speciaal ingericht voor het werven van nieuwe collega’s. Met
+					de kernwaarden van het bedrijf als rode draad in design,
+					functie en tekst heeft OZ-Hami nu een site die
+					geïnteresseerden raakt vanaf de eerste regel.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-case.png"
+					href="https://teamswitch.nl/klanten/oz-hami/"
+					alt="Lees de blog button"
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="270px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/oz-hami-website.jpg"
+					href="https://teamswitch.nl/websites/"
+					alt="Logo's en huisstijlen"
+				/>
+				<mj-text mj-class="title"
+					>Een website als verlenging van je salesteam</mj-text
+				>f
+				<mj-text>
+					Een goede website geeft je niet alleen de juiste informatie,
+					maar weet de bezoeker écht te raken met een goede combinatie
+					van tekst en beeld. Daarin staan gemak, boodschap, slimme
+					vormgeving en SEO voorop. Bent u klaar voor een website met
+					impact? Lees meer op onze site!
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-lees.png"
+					href="https://teamswitch.nl/websites/"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-text mj-class="title"
+					>Wil je weten hoe creatieve marketing ook impact kan maken
+					bij jouw bedrijf?</mj-text
+				>
+				<mj-text>
+					Maak dan een afspraak voor een vrijblijvende brainstorm.
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-brainstorm.png"
+					href="https://teamswitch.nl/contact/"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- socials -->
+		<mj-section padding-bottom="0" background-color="#fff">
+			<mj-column>
+				<mj-text>
+					Altijd op de hoogte blijven van nieuws en ontwikkelingen?<br />
+					Volg ons op social media.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-facebook.png"
+					href="https://www.facebook.com/TeamSwitch.nl"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-instagram.png"
+					href="https://www.instagram.com/teamswitch.nl/"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-linkedin.png"
+					href="https://www.linkedin.com/company/team-switch/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- footer -->
+		<mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://switchserver.nl/nieuwsbrief/teamswitch/img/footer.jpg"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- contact alt -->
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text>
+					<a
+						href="https://teamswitch.nl/contact/"
+						style="color: #000000; text-decoration: none"
+					>
+						Rendementsweg 2-Q
+						<img
+							src="https://switchserver.nl/nieuwsbrief/teamswitch/img/seperator.png"
+							alt=""
+						/>
+						3641 SK Mijdrecht</a
+					>
+					<img
+						src="https://switchserver.nl/nieuwsbrief/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl"
+						style="color: #000000; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+	</mj-body>
+</mjml>

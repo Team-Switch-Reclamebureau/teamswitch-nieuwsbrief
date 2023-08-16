@@ -1,0 +1,261 @@
+<mjml>
+	<mj-head>
+		<mj-title>Team Switch Nieuwsbrief</mj-title>
+		<mj-breakpoint width="300px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="40px" />
+			<mj-button
+				border-radius="100px"
+				background-color="#ff005b"
+				color="white"
+				height="50px"
+				width="200px"
+				padding-bottom="40px"
+				font-size="14px"
+				letter-spacing="1px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="21px"
+				align="center"
+				padding="0 20px"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body background-color="#eee" width="600px">
+		<!-- hero -->
+		<mj-hero padding-top="60px" background-color="transparent">
+			<mj-image
+				padding-bottom="0px"
+				src="https://switchserver.nl/nieuwsbrief/teamswitch/img/header_may22.jpg"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column>
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/mar1.jpg"
+					href="https://teamswitch.nl/blog/vijf-tips-om-jouw-employer-brand-te-versterken/"
+					alt="5 tips om jouw employer brand te versterken"
+				/>
+				<mj-text mj-class="title">
+					Zo trek je nieuw talent aan!
+				</mj-text>
+				<mj-text>
+					De arbeidsmarkt is krap. En jij bent altijd op zoek naar
+					nieuw talent! Tijd dus om aan de slag te gaan met
+					impactvolle employer branding, zodat je bekend staat als de
+					beste keuze in jouw doelgroep! Wil je weten hoe je dat voor
+					elkaar krijgt? Lees er dan alles over in onze blog!
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-blog.png"
+					href="https://teamswitch.nl/blog/vijf-tips-om-jouw-employer-brand-te-versterken/"
+					alt="Lees de blog knop"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 2 col -->
+		<mj-section padding="20px" padding-bottom="0px">
+			<mj-column width="270px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/mar2.jpg"
+					href="https://teamswitch.nl/klanten/360talent/"
+					alt="Een doos met snoepgoed en goede marketing"
+				/>
+				<mj-text mj-class="title"
+					>Een warm welkom voor de nieuwe collega’s van
+					360talent</mj-text
+				>
+				<mj-text>
+					Uitzendbureau 360talent koppelt hun geweldige medewerkers
+					aan bijzondere bedrijven. Speciaal voor de eerste werkdag
+					bedachten wij een welkomstgift waar niet alleen de
+					kandidaat, maar ook de nieuwe collega’s van profiteren. Zo
+					zorgt 360talent altijd voor een mooie binnenkomer, ongeacht
+					waar hun uitzendkrachten aan de slag aan. Voor zo’n bedrijf
+					wil je werken, toch? Bekijk de hele case op onze site.<br /><br />
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-case.png"
+					href="https://teamswitch.nl/klanten/360talent/"
+					alt="Bekijk de case knop"
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="270px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/mar3.jpg"
+					href="https://teamswitch.nl/employer-branding/"
+					alt="Employer branding"
+				/>
+				<mj-text mj-class="title"
+					>Werf vanuit je merkwaarden met employer branding</mj-text
+				>f
+				<mj-text>
+					Door écht tijd en energie te steken in een krachtig
+					werkgeversmerk ben je de concurrentie een flinke stap voor.
+					Geef je prioriteit aan je employer branding, dan kies je
+					voor oprechte communicatie vanuit je merkwaarden, en maak je
+					van iedere collega een ambassadeur. Met een sterke
+					combinatie van impactvolle middelen zorg je ervoor dat je
+					jezelf presenteert als dé interessantste werkgever in jouw
+					segment. Lees meer op onze site!
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-lees.png"
+					href="https://teamswitch.nl/employer-branding/"
+					alt="Lees meer knop"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<mj-section padding="20px" padding-bottom="40px">
+			<mj-column>
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/podcast.png"
+					href="https://open.spotify.com/show/0h2MTFGPspJwfpLT7ibuKd?si=2f42111548054af9"
+				/>
+				<mj-text mj-class="title">
+					Meer weten? Beluister de podcast!
+				</mj-text>
+				<mj-text>
+					Daniël Storm heeft al heel wat bedrijven geholpen met het
+					creëren van een sterk werkgeversmerk. En dat begint bij het
+					dichthouden van de achterdeur. Klik op de player en
+					beluister zijn podcast vól bruikbare inspiratie over hoe je
+					ook jouw employer branding op orde krijgt.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<!-- 1 col -->
+		<mj-section
+			padding="40px 20px"
+			padding-bottom="0px"
+			background-color="#3FA099"
+		>
+			<mj-column>
+				<mj-text mj-class="title" color="#ffffff"
+					>Wil je weten hoe creatieve marketing ook impact maakt voor
+					jouw bedrijf?</mj-text
+				>
+				<mj-text color="#ffffff">
+					Maak dan een afspraak voor een vrijblijvende brainstorm
+				</mj-text>
+				<mj-image
+					width="200px"
+					height="50px"
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/button-brainstorm.png"
+					href="https://teamswitch.nl/contact/"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- socials -->
+		<mj-section padding-bottom="0" background-color="#fff">
+			<mj-column>
+				<mj-text>
+					Volg ons op sociale media voor meer interessante
+					marketing-tips die je kunt delen met je collega’s!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-facebook.png"
+					href="https://www.facebook.com/TeamSwitch.nl"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-instagram.png"
+					href="https://www.instagram.com/teamswitch.nl/"
+					alt=""
+				/>
+			</mj-column>
+			<mj-column width="20px"></mj-column>
+			<mj-column width="50px">
+				<mj-image
+					src="https://switchserver.nl/nieuwsbrief/teamswitch/img/social/switch-linkedin.png"
+					href="https://www.linkedin.com/company/team-switch/"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- footer -->
+		<mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://switchserver.nl/nieuwsbrief/teamswitch/img/footer.jpg"
+				alt=""
+			/>
+		</mj-hero>
+		<!-- contact alt -->
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text>
+					<a
+						href="mailto:info@teamswitch.nl"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>info@teamswitch.nl</a
+					>
+					<img
+						src="https://switchserver.nl/nieuwsbrief/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="tel:+31297525580"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>+31 297 52 55 80</a
+					>
+					<img
+						src="https://switchserver.nl/nieuwsbrief/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="40px 0 0" background-color="#eee">
+			<mj-column>
+				<mj-text font-size="12px" align="center"
+					>Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
+					U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig
+					afmelden.</mj-text
+				>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+	</mj-body>
+</mjml>
