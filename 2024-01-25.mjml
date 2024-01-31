@@ -60,7 +60,7 @@
 			<mj-image
 				padding-bottom="0px"
 				src="https://files.teamswitch.dev/newsletter/teamswitch/img/header_jan24.png"
-				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=header"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=jan&utm_content=header"
 				alt=""
 				border-radius="0 0 20px 20px"
 			/>
@@ -70,8 +70,8 @@
 		<mj-section padding-bottom="0" border-radius="20px 20px 0 0">
 			<mj-column>
 				<mj-image
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/01/resized/01.jpg"
-					href="https://teamswitch.nl/cases/360talent-kerstgeschenk/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360talent-kerstgeschenk"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/01/resized/01-1.jpg"
+					href="https://teamswitch.nl/klanten/360talent/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360talent-kerstgeschenk"
 				/>
 				<mj-text mj-class="title">
 					Gepersonaliseerd kerstcadeau voor personeel 360talent
@@ -84,17 +84,42 @@
 					Een prachtige koffer als kerstcadeau, daarmee wordt de
 					reislust van de medewerkers van 360talent pas echt
 					aangewakkerd! Wij personaliseerden de koffers met
-					domingstickers, een ‘boarding pass’ en voorzagen ze van een
+					domingstickers, een bagagelabel en voorzagen ze van een
 					verpakking die tot in de kleinste details écht ‘360talent’
 					was.
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
-				<mj-button
-					mj-class="bg-pink"
-					href="https://teamswitch.nl/cases/360talent-kerstgeschenk/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360talent-kerstgeschenk"
-					>Bekijk de case</mj-button
-				>
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/klanten/360talent/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360talent-kerstgeschenk" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+						<a
+							href="https://teamswitch.nl/klanten/360talent/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360talent-kerstgeschenk"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Bekijk de case</a
+						>
+						<!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]-->
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 
@@ -106,7 +131,7 @@
 			<mj-column>
 				<mj-image
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/01/resized/03.jpg"
-					href="https://teamswitch.nl/cases/poundwise-finance-in-amsterdam-2023/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=poundwise-eindejaarsgeschenk"
+					href="https://teamswitch.nl/klanten/poundwise/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=poundwise-eindejaarsgeschenk"
 				/>
 				<mj-text mj-class="title">
 					Bijzonder nieuwjaarsgeschenk voor relaties Poundwise
@@ -124,11 +149,36 @@
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
-				<mj-button
-					mj-class="bg-pink"
-					href="https://teamswitch.nl/cases/poundwise-finance-in-amsterdam-2023/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=poundwise-eindejaarsgeschenk"
-					>Bekijk de case</mj-button
-				>
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/klanten/poundwise/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=poundwise-eindejaarsgeschenk" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+						<a
+							href="https://teamswitch.nl/klanten/poundwise/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=poundwise-eindejaarsgeschenk"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Bekijk de case</a
+						>
+						<!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]-->
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 
@@ -147,7 +197,7 @@
 					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding"
 				/>
 				<mj-text mj-class="title white">
-					Download nu <u>gratis</u> onze inhaakkalender!
+					Download nu onze inhaakkalender!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -162,13 +212,37 @@
 					doelgroep!
 				</mj-text>
 			</mj-column>
-			<mj-column width="180px" vertical-align="bottom"
-				>a
-				<mj-button
-					mj-class="bg-white"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding"
-					>Download 'm nu</mj-button
-				>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ffffff">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+						<a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding"
+							style="
+								background-color: #ffffff;
+								border-radius: 20px;
+								color: #333333;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Download 'm nu</a
+						>
+						<!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]-->
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 
@@ -183,7 +257,7 @@
 					href="https://teamswitch.nl/producten/employer-branding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding"
 				/>
 				<mj-text mj-class="title">
-					Wordt de aantrekkelijkste werkgever in jouw branche!
+					Word de aantrekkelijkste werkgever in jouw branche!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -199,11 +273,36 @@
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
-				<mj-button
-					mj-class="bg-pink"
-					href="https://teamswitch.nl/producten/employer-branding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding"
-					>Lees meer</mj-button
-				>
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/producten/employer-branding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+						<a
+							href="https://teamswitch.nl/producten/employer-branding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=dienst&utm_content=employer-branding"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Lees meer</a
+						>
+						<!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]-->
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 
@@ -217,7 +316,7 @@
 		>
 			<mj-column>
 				<mj-text mj-class="title white">
-					Op deze dagen kun jij komende maand de sympathie van je
+					In februari kun je op deze dagen de sympathie van je
 					doelgroep winnen!
 				</mj-text>
 				<mj-text mj-class="white">
@@ -228,39 +327,211 @@
 		</mj-section>
 
 		<mj-section mj-class="bg-green" padding="0 10px">
-			<mj-column width="290px">
-				<mj-button
-					mj-class="inhaker"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
-				>
-					Warme Truiendag
-				</mj-button>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Warme truiendag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Warme truiendag</a
+						>
+					</div>
+				</mj-raw>
 			</mj-column>
-			<mj-column width="290px">
-				<mj-button
-					mj-class="inhaker"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
-				>
-					Start Carnaval
-				</mj-button>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Start carnaval
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Start carnaval</a
+						>
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 		<mj-section mj-class="bg-green" padding="0 10px">
-			<mj-column width="290px">
-				<mj-button
-					mj-class="inhaker"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
-				>
-					Valentijnsdag
-				</mj-button>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Valentijnsdag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Valentijnsdag</a
+						>
+					</div>
+				</mj-raw>
 			</mj-column>
-			<mj-column width="290px">
-				<mj-button
-					mj-class="inhaker"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
-				>
-					Doe-vriendelijk-dag
-				</mj-button>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Doe-vriendelijk-dag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Doe-vriendelijk-dag</a
+						>
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 		<mj-section
@@ -268,22 +539,105 @@
 			padding="0 10px"
 			border-radius="0 0 20px 20px"
 		>
-			<mj-column width="290px">
-				<mj-button
-					mj-class="inhaker"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
-				>
-					Vertel-een-sprookje-dag
-				</mj-button>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Vertel-een-sprookje-dag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Vertel-een-sprookje-dag</a
+						>
+					</div>
+				</mj-raw>
 			</mj-column>
-			<mj-column width="290px">
-				<mj-button
-					mj-class="inhaker bg-pink"
-					border="none"
-					href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
-				>
-					Download ‘m nu!
-				</mj-button>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								stroke="f"
+								fillcolor="#ff005b"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 12px;
+									"
+								>
+									Download ‘m nu!
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Download ‘m nu!</a
+						>
+					</div>
+				</mj-raw>
 			</mj-column>
 		</mj-section>
 
@@ -325,7 +679,7 @@
 						alt=""
 					/>
 					<a
-						href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=footer"
+						href="https://teamswitch.nl/"
 						target="_blank"
 						style="color: #000000; text-decoration: none"
 						>TeamSwitch.nl</a
