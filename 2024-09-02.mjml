@@ -56,18 +56,18 @@
 	</mj-head>
 	<mj-body mj-class="bg-grey" width="600px">
 		<!-- hero -->
-		<mj-hero background-color="transparent" padding-bottom="20px">
+		<mj-hero background-color="transparent">
 			<mj-image
 				padding-bottom="0px"
-				src="https://files.teamswitch.dev/newsletter/teamswitch/img/header_aug24.png"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/header_aug24.jpg"
 				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=jan&utm_content=header"
 				alt=""
-				border-radius="0 0 20px 20px"
+				border-radius="0 0 0 0"
 			/>
 		</mj-hero>
 
 		<!-- article -->
-		<mj-section padding-bottom="0" border-radius="20px 20px 0 0">
+		<mj-section padding-bottom="0" border-radius="0">
 			<mj-column>
 				<!-- <mj-image
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/01/resized/01-1.jpg"
