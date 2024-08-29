@@ -1,0 +1,388 @@
+<mjml>
+	<mj-head>
+		<mj-title>Zó verkoop je beter</mj-title>
+		<mj-breakpoint width="600px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="20px" border-radius="10px" />
+			<mj-button
+				border-radius="100px"
+				height="30px"
+				padding-bottom="20px"
+				font-size="14px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="20px"
+				padding="0"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+			<mj-class name="intro" font-size="16px" font-weight="medium" line-height="1.6"/>
+			<mj-class name="bg-pink" background-color="#ff005b" color="#fff" />
+			<mj-class name="pink" color="#ff005b" />
+			<mj-class name="bg-black" background-color="#000" color="#fff" />
+			<mj-class name="black" color="#101010" />
+			<mj-class name="bg-green" background-color="#3fa099" color="#fff" />
+			<mj-class name="green" color="#3fa099" />
+			<mj-class name="bg-grey" background-color="#eee" color="#333" />
+			<mj-class name="grey" color="#eee" />
+			<mj-class name="bg-white" background-color="#fff" color="#333" />
+			<mj-class name="white" color="#fff" />
+			<mj-class
+				name="inhaker"
+				background-color="transparent"
+				color="#fff"
+				border="solid 1px #fff"
+				font-size="12px"
+				width="260px"
+				padding="0 10px 0"
+				line-height="1.4"
+			/>
+			<mj-class
+				name="inhaker-leftt"
+				padding-right="10px"
+				padding-left="0"
+			/>
+		</mj-attributes>
+	</mj-head>
+	<mj-body mj-class="bg-grey" width="600px">
+	<!-- hero -->
+		<mj-hero background-color="transparent" >
+			<mj-image
+				padding-bottom="0px"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/beter_header_mrt.jpg"
+				href="https://teamswitch.nl/beter?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=BETER&utm_content=header"
+				alt=""
+				border-radius="0 0 0 0"
+			/>
+		</mj-hero>
+
+	<!-- article -->
+		<mj-section mj-class="" padding-bottom="20px" border-radius="0 0 0 0">
+		</mj-section>
+		<mj-section mj-class="" padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column  padding-right="32px" padding-left="32px">
+			<mj-text mj-class="title">
+			Wij houden van goede reclame. 
+			</mj-text>
+				<mj-text mj-class="intro">
+					Reclame die impact maakt en je doelgroep écht overtuigt. 
+					In het boek ‘Reclame is goed, goede reclame is BETER’ vertellen we je in kraakheldere taal hoe je dat doet! 
+					Zo maak jij straks NOOIT meer een slechte reclame-uiting! 
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+	<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+	<!-- article -->
+		<mj-section mj-class="bg-white" padding-bottom="0" border-radius="20px 20px 0 0">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/beter_winactie_mrt.jpg"
+					href="https://teamswitch.nl/beter/winactie?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=winactie&utm_content=winactie"
+				/>
+				<mj-text mj-class="title">
+					Beantwoord onze vraag en win een BETER-boek!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="bg-white" padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text mj-class="">
+					We mogen vijfmaal een BETER-boek verloten! Dus ook jij maakt kans! 
+					Het enige wat je hoeft te doen is op de onderstaande knop te klikken en onze vraag te beantwoorden. 
+					En wie weet ligt het boek straks helemaal gratis bij jou op de mat! 
+					Betere reclame maken was nog nooit zó makkelijk!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+						<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/beter/winactie?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=winactie&utm_content=winactie" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+							<w:anchorlock/>
+							<center>
+						<![endif]-->
+						<a
+							href="https://teamswitch.nl/beter/winactie?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=winactie&utm_content=winactie"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #fff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								font-weight: bold;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Ik doe mee!</a
+						>
+						<!--[if mso]>
+						</center>
+					</v:roundrect>
+					<![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+	<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+	<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/beter_interview_mrt.jpg"
+					href="https://teamswitch.nl/interview-laura-hamer?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=interview-laura-hamer&utm_content=interview-laura-hamer"
+				/>
+				<mj-text mj-class="title">
+					Laura Hamer &amp; Daniël Storm duiken in de B, E, T, E en R!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			padding-top="0"
+			border-radius="0 0 20px 20px"
+			>
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Waar staan die letters van ‘BETER’ voor? En waarom zijn ze onmisbaar bij het maken van goede reclame? 
+					Daniël Storm, auteur van het boek, sprak hierover met Laura Hamer van ProBizz. 
+					Klik op de knop en lees het interview!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+						<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/interview-laura-hamer?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=interview-laura-hamer&utm_content=interview-laura-hamer" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+							<w:anchorlock/>
+							<center>
+						<![endif]-->
+						<a
+							href="https://teamswitch.nl/interview-laura-hamer?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=interview-laura-hamer&utm_content=interview-laura-hamer"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #fff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								font-weight: bold;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Ervaar het zelf!</a
+						>
+						<!--[if mso]>
+						</center>
+					</v:roundrect>
+					<![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+	<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+	<!-- article -->
+		<mj-section padding-bottom="0" border-radius="20px 20px 0 0">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/beter_inkijkexemplaar_mrt.jpg"
+					href="https://teamswitch.nl/beter?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=beter-boek&utm_content=beter-boek"
+				/>
+				<mj-text mj-class="title">
+					Lees alvast hoe jouw uitingen áltijd BELOFTEVOL worden!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Graag lichten we vast een tipje van de sluier op. 
+					Zodat je zelf kan ervaren hoe makkelijk het is om je doelgroep te overtuigen met goede reclame. 
+					Klik op de knop en bekijk het inkijkexemplaar op onze website!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+						<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/beter?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=beter-boek&utm_content=beter-boek" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+							<w:anchorlock/>
+							<center>
+						<![endif]-->
+						<a
+							href="https://teamswitch.nl/beter?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=beter-boek&utm_content=beter-boek"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #fff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								font-weight: bold;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Ervaar het zelf!</a
+						>
+						<!--[if mso]>
+						</center>
+					</v:roundrect>
+					<![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+	<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+	<!-- article -->
+		<mj-section padding-bottom="0" border-radius="20px 20px 0 0">
+			<mj-column>
+				<mj-image
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/beter_positioneringsspel_mrt.jpg"
+					href="https://teamswitch.nl/beter/positioneringsspel?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=positioneringsspel&utm_content=positioneringsspel"
+				/>
+				<mj-text mj-class="title">
+					Doe het positioneringsspel en weet waar je staat!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Jouw merk is uniek. En dat zorgt ervoor dat jij goede, onderscheidende reclame kunt maken. 
+					Weten op welke andere merken jouw merk lijkt? 
+					En welk gevoel past bij je merk? Klik op de knop en doe het positioneringsspel!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+						<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/beter/positioneringsspel?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=positioneringsspel&utm_content=positioneringsspel" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+							<w:anchorlock/>
+							<center>
+						<![endif]-->
+						<a
+							href="https://teamswitch.nl/beter/positioneringsspel?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=positioneringsspel&utm_content=positioneringsspel"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #fff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								font-weight: bold;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Doe het spel!</a
+						>
+						<!--[if mso]>
+						</center>
+					</v:roundrect>
+					<![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+	<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+	<!-- footer -->
+		<!-- <mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/footer_mar23.jpg"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=beter&utm_content=footer"
+				alt=""
+			/>
+		</mj-hero> -->
+		<!-- contact alt -->
+		<mj-section padding-bottom="0" border-radius="20px" mj-class="bg-black">
+			<mj-column>
+				<mj-text align="center" mj-class="white">
+					<a
+						href="mailto:info@teamswitch.nl"
+						target="_blank"
+						style="color: #fff; text-decoration: none"
+						>info@teamswitch.nl</a
+					>
+					<img
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="tel:+31297525580"
+						target="_blank"
+						style="color: #fff; text-decoration: none"
+						>+31 297 52 55 80</a
+					>
+					<img
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl/"
+						target="_blank"
+						style="color: #fff; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="60px 20px 0px" mj-class="bg-grey">
+			<mj-column>
+				<mj-text font-size="12px" align="center">
+					Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
+					U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig afmelden.
+				</mj-text>
+				<mj-text font-size="12px" align="center">
+					Wilt u juist meer weten over Team Switch,<br />
+					dan kunt u een kijkje nemen op onze
+					<a href="https://teamswitch.nl/">website</a>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+	</mj-body>
+</mjml>
