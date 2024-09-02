@@ -59,8 +59,7 @@
 		<mj-hero background-color="transparent">
 			<mj-image
 				padding-bottom="0px"
-								src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/header-september.jpg"
-
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/header-september.jpg"
 				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=jan&utm_content=header"
 				alt=""
 				border-radius="0 0 0 0"
@@ -82,7 +81,12 @@
 		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Als we het weer moeten geloven, is de zomer pas net begonnen. En waarschijnlijk heb je nog hélemaal geen zin om aan Kerst te denken. Maar, als jij je klanten, prospects en collega’s blij wil maken een warm, sympathiek of leuk cadeau, is het verstandig om nú al aan de slag te gaan. Wij staan klaar om je te helpen!
+					Als we het weer moeten geloven, is de zomer pas net
+					begonnen. En waarschijnlijk heb je nog hélemaal geen zin om
+					aan Kerst te denken. Maar, als jij je klanten, prospects en
+					collega’s blij wil maken een warm, sympathiek of leuk
+					cadeau, is het verstandig om nú al aan de slag te gaan. Wij
+					staan klaar om je te helpen!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
@@ -127,7 +131,7 @@
 			padding-bottom="0"
 			padding-top="0"
 			border-radius="20px 20px 0 0"
-		    >
+		>
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
@@ -136,17 +140,20 @@
 				/>
 			</mj-column>
 		</mj-section>
-        <mj-section padding-bottom="0">
-            <mj-column>
-                <mj-text mj-class="title">
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text mj-class="title">
 					Langdurig in beeld met je kalender
 				</mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-section padding-top="0">
-            <mj-column width="380px" padding-right="20px">
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0">
+			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Het hele jaar in beeld bij de mensen die graag met je werken met een kalender aan de muur of op het bureau. Omdat de productie veelal niet 1-2-3 is gedaan, is het wel zaak om er snel bij te zijn!
+					Het hele jaar in beeld bij de mensen die graag met je werken
+					met een kalender aan de muur of op het bureau. Omdat de
+					productie veelal niet 1-2-3 is gedaan, is het wel zaak om er
+					snel bij te zijn!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
@@ -181,9 +188,9 @@
 					</div>
 				</mj-raw>
 			</mj-column>
-        </mj-section>
+		</mj-section>
 
-        <mj-section padding-bottom="0" padding-top="0">
+		<mj-section padding-bottom="0" padding-top="0">
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
@@ -192,17 +199,21 @@
 				/>
 			</mj-column>
 		</mj-section>
-        <mj-section padding-bottom="0">
-            <mj-column>
-                <mj-text mj-class="title">
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text mj-class="title">
 					Met de kersttrui wordt ook bij het kerstdiner aan je gedacht
 				</mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-section padding-top="0">
-            <mj-column width="380px" padding-right="20px">
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0">
+			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Echt een klassieker, zo’n kersttrui. En als je er een hebt met je eigen logo of branding, zit je helemaal gebakken. Geef hem aan je personeel en de komende jaren zit je als merk aan tafel bij ’t kerstdiner. Of je nu 25 of 2.500 kersttruien nodig hebt, wij staan voor je klaar!
+					Echt een klassieker, zo’n kersttrui. En als je er een hebt
+					met je eigen logo of branding, zit je helemaal gebakken.
+					Geef hem aan je personeel en de komende jaren zit je als
+					merk aan tafel bij ’t kerstdiner. Of je nu 25 of 2.500
+					kersttruien nodig hebt, wij staan voor je klaar!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
@@ -237,9 +248,9 @@
 					</div>
 				</mj-raw>
 			</mj-column>
-        </mj-section>
+		</mj-section>
 
-        <mj-section padding-bottom="0" padding-top="0">
+		<mj-section padding-bottom="0" padding-top="0">
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
@@ -248,17 +259,22 @@
 				/>
 			</mj-column>
 		</mj-section>
-        <mj-section padding-bottom="0">
-            <mj-column>
-                <mj-text mj-class="title">
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text mj-class="title">
 					Laat met je kerstkaart zien dat je aan je relaties denkt
 				</mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-section padding-top="0" border-radius="0 0 20px 20px">
-            <mj-column width="380px" padding-right="20px">
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Vergis je niet in de kracht van een kerstkaart die je verstuurt met een ‘ouderwetse’ kerstzegel! Naar je klanten, collega’s of leveranciers. Als zo’n kaart dan ook nog eens helemaal ‘jou’ is, blijft ‘ie geheid een hele tijd op het bureau staan. Ben je gebonden aan een budget? Kies dan voor een digitale kerstkaart!
+					Vergis je niet in de kracht van een kerstkaart die je
+					verstuurt met een ‘ouderwetse’ kerstzegel! Naar je klanten,
+					collega’s of leveranciers. Als zo’n kaart dan ook nog eens
+					helemaal ‘jou’ is, blijft ‘ie geheid een hele tijd op het
+					bureau staan. Ben je gebonden aan een budget? Kies dan voor
+					een digitale kerstkaart!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
@@ -293,13 +309,17 @@
 					</div>
 				</mj-raw>
 			</mj-column>
-        </mj-section>
+		</mj-section>
 
-        <!-- spacing -->
+		<!-- spacing -->
 		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
 
-        <!-- article -->
-		<mj-section padding-bottom="0" padding-top="0" border-radius="20px 20px 0 0">
+		<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
@@ -358,8 +378,12 @@
 		<!-- spacing -->
 		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
 
-         <!-- article -->
-		<mj-section padding-bottom="0" padding-top="0" border-radius="20px 20px 0 0">
+		<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
@@ -367,14 +391,19 @@
 					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
 				/>
 				<mj-text mj-class="title">
-					Blog – nog véél meer inspiratie voor de gezelligste tijd van ’t jaar
+					Blog – nog véél meer inspiratie voor de gezelligste tijd van
+					’t jaar
 				</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					De feestdagen zijn hét moment om een onuitwisbare indruk achter te laten bij je klanten, prospects en collega’s. En dat kan op heel veel warme, sympathieke manieren. Wij inspireren je graag! Lees onze blog vol ideeën, of neem contact met ons op voor een gratis brainstorm!
+					De feestdagen zijn hét moment om een onuitwisbare indruk
+					achter te laten bij je klanten, prospects en collega’s. En
+					dat kan op heel veel warme, sympathieke manieren. Wij
+					inspireren je graag! Lees onze blog vol ideeën, of neem
+					contact met ons op voor een gratis brainstorm!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
