@@ -59,22 +59,22 @@
 		<mj-hero background-color="transparent">
 			<mj-image
 				padding-bottom="0px"
-				src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/header-september.jpg"
-				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=jan&utm_content=header"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/0.jpg"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=header"
 				alt=""
 				border-radius="0 0 0 0"
 			/>
 		</mj-hero>
 
-		<!-- article -->
+		<!-- intro -->
 		<mj-section padding-bottom="0" border-radius="0">
 			<mj-column>
 				<!-- <mj-image
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/01/resized/01-1.jpg"
-					href="https://teamswitch.nl/contact/"
+					href="https://teamswitch.nl/contact/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=brainstorm"
 				/> -->
 				<mj-text mj-class="title">
-					Fijnere Feestdagen <em>als je er op tijd bij bent</em>
+					Fijnere Feestdagen als je er op tijd bij bent
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -84,7 +84,7 @@
 					Als we het weer moeten geloven, is de zomer pas net
 					begonnen. En waarschijnlijk heb je nog hélemaal geen zin om
 					aan Kerst te denken. Maar, als jij je klanten, prospects en
-					collega’s blij wil maken een warm, sympathiek of leuk
+					collega’s blij wil maken een warm, sympathiek of origineel
 					cadeau, is het verstandig om nú al aan de slag te gaan. Wij
 					staan klaar om je te helpen!
 				</mj-text>
@@ -93,12 +93,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-							<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/contact/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+							<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/contact/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=brainstorm" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
 								<w:anchorlock/>
 								<center>
 						<![endif]-->
 						<a
-							href="https://teamswitch.nl/contact/"
+							href="https://teamswitch.nl/contact/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=brainstorm"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -112,7 +112,7 @@
 								width: 180px;
 								-webkit-text-size-adjust: none;
 							"
-							>Vraag je brainstorm aan</a
+							>Ik wil een brainstorm</a
 						>
 						<!--[if mso]>
 							</center>
@@ -135,37 +135,33 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/1.png"
-					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/1.jpg"
+					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender"
 				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-bottom="0">
-			<mj-column>
 				<mj-text mj-class="title">
 					Langdurig in beeld met je kalender
 				</mj-text>
 			</mj-column>
 		</mj-section>
-		<mj-section padding-top="0">
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Het hele jaar in beeld bij de mensen die graag met je werken
-					met een kalender aan de muur of op het bureau. Omdat de
-					productie veelal niet 1-2-3 is gedaan, is het wel zaak om er
-					snel bij te zijn!
+					Een gepersonaliseerde kalender op het bureau of aan de muur?
+					Ga mee met de batch van september en je hebt jouw kalender
+					op tijd binnen. Wij denken graag met je mee over een tof
+					ontwerp.
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
+							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -190,23 +186,26 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding-bottom="0" padding-top="0">
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/2.png"
-					href="https://teamswitch.nl/producten/promokleding/"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/2.jpg"
+					href="https://teamswitch.nl/producten/promokleding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kersttrui"
 				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-bottom="0">
-			<mj-column>
 				<mj-text mj-class="title">
 					Met de kersttrui wordt ook bij het kerstdiner aan je gedacht
 				</mj-text>
 			</mj-column>
 		</mj-section>
-		<mj-section padding-top="0">
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
 					Echt een klassieker, zo’n kersttrui. En als je er een hebt
@@ -220,12 +219,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/producten/promokleding/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/producten/promokleding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kersttrui" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/producten/promokleding/"
+							href="https://teamswitch.nl/producten/promokleding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kersttrui"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -250,17 +249,20 @@
 			</mj-column>
 		</mj-section>
 
-		<mj-section padding-bottom="0" padding-top="0">
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/3.png"
-					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/3.jpg"
+					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart"
 				/>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-bottom="0">
-			<mj-column>
 				<mj-text mj-class="title">
 					Laat met je kerstkaart zien dat je aan je relaties denkt
 				</mj-text>
@@ -281,12 +283,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
+							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -323,8 +325,8 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/4.png"
-					href="https://teamswitch.nl/cases/360talent-kerstgeschenk/"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/4.jpg"
+					href="https://teamswitch.nl/cases/360talent-kerstgeschenk/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360-kerstgeschenk"
 				/>
 				<mj-text mj-class="title">
 					Een kerst om nooit te vergeten voor medewerkers 360talent
@@ -345,12 +347,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/cases/360talent-kerstgeschenk/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/cases/360talent-kerstgeschenk/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360-kerstgeschenk" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/cases/360talent-kerstgeschenk/"
+							href="https://teamswitch.nl/cases/360talent-kerstgeschenk/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=360-kerstgeschenk"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -387,8 +389,8 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/5.png"
-					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/5.jpg"
+					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=blog"
 				/>
 				<mj-text mj-class="title">
 					Blog – nog véél meer inspiratie voor de gezelligste tijd van
@@ -410,12 +412,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=blog" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/"
+							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=blog"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -449,7 +451,7 @@
 				padding-top="0px"
 				padding-bottom="0px"
 				src="https://files.teamswitch.dev/newsletter/teamswitch/img/footer_mar23.png"
-				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=dec&utm_content=footer"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=footer"
 				alt=""
 			/>
 		</mj-hero> -->
@@ -464,7 +466,7 @@
 						>info@teamswitch.nl</a
 					>
 					<img
-						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.jpg"
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
 						alt=""
 					/>
 					<a
@@ -474,7 +476,7 @@
 						>+31 297 52 55 80</a
 					>
 					<img
-						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.jpg"
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
 						alt=""
 					/>
 					<a
