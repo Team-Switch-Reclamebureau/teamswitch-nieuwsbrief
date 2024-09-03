@@ -74,7 +74,7 @@
 					href="https://teamswitch.nl/contact/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=brainstorm"
 				/> -->
 				<mj-text mj-class="title">
-					Fijnere Feestdagen als je er op tijd bij bent
+					Fijnere feestdagen als je er op tijd bij bent
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -136,7 +136,7 @@
 				<mj-image
 					padding-bottom="0"
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/1.jpg"
-					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender"
+					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender#form"
 				/>
 				<mj-text mj-class="title">
 					Langdurig in beeld met je kalender
@@ -156,12 +156,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender#form" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender"
+							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kalender#form"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -175,7 +175,7 @@
 								width: 180px;
 								-webkit-text-size-adjust: none;
 							"
-							>Vertel me meer!</a
+							>Maak een afspraak</a
 						>
 						<!--[if mso]>
                             </center>  
@@ -198,7 +198,7 @@
 				<mj-image
 					padding-bottom="0"
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/2.jpg"
-					href="https://teamswitch.nl/producten/promokleding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kersttrui"
+					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
 				/>
 				<mj-text mj-class="title">
 					Met de kersttrui wordt ook bij het kerstdiner aan je gedacht
@@ -219,12 +219,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/producten/promokleding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kersttrui" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/producten/promokleding/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kersttrui"
+							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -261,7 +261,7 @@
 				<mj-image
 					padding-bottom="0"
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/09/3.jpg"
-					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart"
+					href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
 				/>
 				<mj-text mj-class="title">
 					Laat met je kerstkaart zien dat je aan je relaties denkt
@@ -283,12 +283,12 @@
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart"
+							href="https://teamswitch.nl/blog/zo-maak-je-impact-tijdens-de-feestdagen/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -336,8 +336,8 @@
 		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Afgelopen Kerst werd de reislust van de medewerkers van
-					360talent aangewakkerd met een prachtige, luxe koffer.Team
+					Afgelopen kerst werd de reislust van de medewerkers van
+					360talent aangewakkerd met een prachtige, luxe koffer. Team
 					Switch maakte dit leuke cadeau nóg specialer door ‘m op een
 					creatieve manier te personaliseren én presenteren. Dat
 					vergeten de medewerkers van 360talent niet snel meer!
