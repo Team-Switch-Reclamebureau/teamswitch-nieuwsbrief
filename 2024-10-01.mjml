@@ -1,0 +1,795 @@
+<mjml>
+	<mj-head>
+		<mj-title>Team Switch Nieuwsbrief</mj-title>
+		<mj-breakpoint width="600px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="20px" border-radius="10px" />
+			<mj-button
+				border-radius="100px"
+				height="30px"
+				padding-bottom="20px"
+				font-size="14px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="20px"
+				padding="0"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+			<mj-class name="bg-pink" background-color="#ff005b" color="#fff" />
+			<mj-class name="pink" color="#ff005b" />
+			<mj-class name="bg-green" background-color="#3fa099" color="#fff" />
+			<mj-class name="green" color="#3fa099" />
+			<mj-class name="bg-grey" background-color="#eee" color="#333" />
+			<mj-class name="grey" color="#eee" />
+			<mj-class name="bg-white" background-color="#fff" color="#333" />
+			<mj-class name="white" color="#fff" />
+			<mj-class
+				name="inhaker"
+				background-color="transparent"
+				color="#fff"
+				border="solid 1px #fff"
+				font-size="12px"
+				width="260px"
+				padding="0 10px 0"
+				line-height="1.4"
+			/>
+			<mj-class
+				name="inhaker-leftt"
+				padding-right="10px"
+				padding-left="0"
+			/>
+		</mj-attributes>
+	</mj-head>
+	<mj-body mj-class="bg-grey" width="600px">
+		<!-- hero -->
+		<mj-hero background-color="transparent">
+			<mj-image
+				padding-bottom="0px"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/10/0.jpg"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=header"
+				alt=""
+				border-radius="0 0 20px 20px"
+			/>
+		</mj-hero>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/10/1.jpg"
+					href="https://open.spotify.com/episode/1UCg6TLxD54H1PeotyAZgw?si=0105c3f7e19f4852"
+				/>
+				<mj-text mj-class="title">
+					Overtuig je doelgroep met wie jij bent!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Veel IT-specialisten werken met dezelfde tools en hebben een
+					vergelijkbaar aanbod in diensten. Lindy Dragstra, hoofd
+					marketing bij Solvinity, praat met Daniël Storm over hoe je
+					in zo’n situatie onderscheidend blijft en zorgt dat klanten
+					voor jóu kiezen. Ze sluiten af met praktische tips voor
+					bedrijven in een vergelijkbare situatie!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://open.spotify.com/episode/1UCg6TLxD54H1PeotyAZgw?si=0105c3f7e19f4852?" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://open.spotify.com/episode/1UCg6TLxD54H1PeotyAZgw?si=0105c3f7e19f4852"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Beluister de podcast</a
+						>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/10/2.jpg"
+					href="https://teamswitch.nl/blog/onderscheidend-vermogen-in-de-b2b/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
+				/>
+				<mj-text mj-class="title">
+					Zo zet je jouw merkwaarden om in impactvolle marketing
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Wat maakt jou anders dan de concurrent? En als je niet
+					goedkoper of sneller bent, waarmee moet je de doelgroep dán
+					overtuigen? Er zijn meer wegen die naar Rome leiden.
+					Misschien ben je degelijk en is dat precies wat je klanten
+					graag zien. Of misschien ben je juist vlotter en
+					innovatiever dan de rest. En is dat de reden waarom je
+					doelgroep voor jou kiest. Meer weten over hoe je als bedrijf
+					het verschil kan maken? Lees dan de whitepaper!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/onderscheidend-vermogen-in-de-b2b/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://teamswitch.nl/blog/onderscheidend-vermogen-in-de-b2b/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Lees de whitepaper</a
+						>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/10/3.jpg"
+					href="https://teamswitch.nl/cases/aviva-beker-case/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
+				/>
+				<mj-text mj-class="title">
+					Aviva maakt van iedere prospect een winnaar met leuke
+					DM-actie
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Aviva bouwt prijswinnende e-commerce omgevingen. En dat
+					mogen alle prospects weten. Wij bedachten een actie waarbij
+					de potentiële nieuwe klanten van Aviva al even mochten
+					ervaren hoe het is om straks die podiumplek te pakken. Deze
+					actie paste helemaal bij wie Aviva als merk is en leverde
+					een hoop gesprekken op. Bekijk de case op onze site!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/cases/aviva-beker-case/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://teamswitch.nl/cases/aviva-beker-case/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=kerstkaart#kerstkaart"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Bekijk de case</a
+						>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/10/4.jpg"
+					href="https://teamswitch.nl/beter/positioneringsspel/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=positioneringsspel"
+				/>
+				<mj-text mj-class="title">
+					Doe het positioneringsspel en zie wat jouw merk uniek maakt
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Je doelgroep overtuigen met jouw unieke eigenschappen begint
+					met weten wie je als merk precies bent. Heb jij ons
+					positioneringsspel nog niet gedaan? Klik dan op de link om
+					‘m direct te doen!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/beter/positioneringsspel/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=positioneringsspel" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://teamswitch.nl/beter/positioneringsspel/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=positioneringsspel"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Doe het spel</a
+						>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/10/5.jpg"
+					href="https://www.instagram.com/teamswitch.nl/"
+				/>
+				<mj-text mj-class="title">
+					De laatste nieuwtjes over ’t team
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					- Afgelopen maand is Zeppe bij ons begonnen als stagiair
+					Marketing & Communicatie! Welkom bij de club!<br />
+					- Vorige maand was Kevin 5 jaar bij de zaak en deze maand is
+					Tijmen dat! Gefeliciteerd, gasten!<br />
+					- Meer kijkjes achter de schermen? Volg ons dan op de
+					socials!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.instagram.com/teamswitch.nl/" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://www.instagram.com/teamswitch.nl/"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Volg ons</a
+						>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<mj-section
+			mj-class="bg-green"
+			border-radius="20px 20px 0 0"
+			padding-bottom="0"
+		>
+			<mj-column>
+				<mj-text mj-class="title white">
+					In november kun je op deze dagen de sympathie van je
+					doelgroep winnen!
+				</mj-text>
+				<mj-text mj-class="white">
+					Wil je voor ’t hele jaar weten op welke dagen je kunt scoren
+					met leuke inhakers? Download dan onze inhaakkalender!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- *1 november movember
+		*9 november dag van de uitvinders
+		*11 november singlesday
+		*27 november cyber monday
+		*29 november black friday  -->
+
+		<mj-section mj-class="bg-green" padding="0 10px">
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Movember
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Movember</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Dag van de uitvinders
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Dag van de uitvinders</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="bg-green" padding="0 10px">
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Singlesday
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Singlesday</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Cyber Monday
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Cyber Monday</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="bg-green"
+			padding="0 10px"
+			border-radius="0 0 20px 20px"
+		>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Black Friday
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Black Friday</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								stroke="f"
+								fillcolor="#ff005b"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 12px;
+									"
+								>
+									Download ‘m nu!
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2024/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=inhaakkalender-2024"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Download ‘m nu!</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<!-- footer -->
+		<!-- <mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://files.teamswitch.dev/newsletter/teamswitch/img/footer_mar23.png"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=footer"
+				alt=""
+			/>
+		</mj-hero> -->
+		<!-- contact alt -->
+		<mj-section padding-bottom="0" border-radius="20px">
+			<mj-column>
+				<mj-text align="center">
+					<a
+						href="mailto:info@teamswitch.nl"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>info@teamswitch.nl</a
+					>
+					<img
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="tel:+31297525580"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>+31 297 52 55 80</a
+					>
+					<img
+						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl/"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="60px 20px 0px" mj-class="bg-grey">
+			<mj-column>
+				<mj-text font-size="12px" align="center">
+					Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
+					U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig afmelden.
+				</mj-text>
+				<mj-text font-size="12px" align="center">
+					Wilt u juist meer weten over Team Switch,<br />
+					dan kunt u een kijkje nemen op onze
+					<a href="https://teamswitch.nl/">website</a>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+	</mj-body>
+</mjml>
