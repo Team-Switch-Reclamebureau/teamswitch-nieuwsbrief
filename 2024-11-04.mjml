@@ -62,15 +62,28 @@
 				src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/0.jpg"
 				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=header"
 				alt=""
-				border-radius="20px"
+				border-radius="0"
 			/>
 		</mj-hero>
 
-		<mj-section padding-bottom="0" border-radius="0 0 20px 20px">
+		<mj-section padding-bottom="0" border-radius="0">
 			<mj-column>
 				<mj-text mj-class="title">
-					Een nieuwe klant werven is 5x duurder dan een huidige klant
-					bij je houden. Aan de bak, dus!
+					Een nieuwe klant werven is minimaal 5x duurder dan een
+					huidige klant bij je houden. Aan de bak, dus!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			padding-top="0"
+			padding-bottom="0"
+			border-radius="0 0 20px 20px"
+		>
+			<mj-column>
+				<mj-text>
+					Als je nog geen plan hebt om je huidige klanten bij je te
+					houden, dan is het de hoogste tijd om er eentje te maken!
+					Wij inspireren en helpen je graag!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -87,11 +100,11 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/1.png"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/1-groen.png"
 					href="https://open.spotify.com/episode/61Oru0t9K6jPsEWMkM0zJB"
 				/>
 				<mj-text mj-class="title">
-					Podcast: Geef je huidige klanten óók aandacht.
+					Podcast: Luister jij wel écht naar de mens achter de klant?
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -101,8 +114,9 @@
 					Veel bedrijven focussen zich vooral op het binnenhalen van
 					nieuwe klanten. Terwijl het misschien nog wel veel
 					belangrijker is om je huidige klanten binnenboord te houden.
-					Maar hoe doe je dat? Kees Kerkvliet en Daniël Storm komen
-					met praktische tips!
+					Maar hoe doe je dat? Kees Kerkvliet, directeur Tote-M en
+					docent Beeckestijn Business school, komt met praktische
+					tips!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
@@ -150,70 +164,6 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/2.png"
-					href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar"
-				/>
-				<mj-text mj-class="title">
-					Bijzonder boek voor bijzonder jubileum
-				</mj-text>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" border-radius="0 0 20px 20px">
-			<mj-column width="380px" padding-right="20px">
-				<mj-text>
-					Voor het 25-jarig jubileum van Poundwise zette directeur
-					Marc van der Vuurst niet zichzelf, maar zijn relaties in het
-					zonnetje met een boek waarin zíj aan het woord zijn. Team
-					Switch verzorgde de uitwerking, opmaak en het drukwerk van
-					25 verhalen over de emotie achter geld. Bekijk de case op
-					onze site!
-				</mj-text>
-			</mj-column>
-			<mj-column width="180px" vertical-align="bottom">
-				<mj-raw>
-					<div>
-						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
-                            <w:anchorlock/>
-                            <center>
-                        <![endif]-->
-						<a
-							href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar"
-							style="
-								background-color: #ff005b;
-								border-radius: 20px;
-								color: #ffffff;
-								display: inline-block;
-								font-family: Montserrat, sans-serif;
-								font-size: 14px;
-								line-height: 40px;
-								text-align: center;
-								text-decoration: none;
-								width: 180px;
-								-webkit-text-size-adjust: none;
-							"
-							>Bekijk de case</a
-						>
-						<!--[if mso]>
-                            </center>  
-                            </v:roundrect>
-                        <![endif]-->
-					</div>
-				</mj-raw>
-			</mj-column>
-		</mj-section>
-
-		<!-- spacing -->
-		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
-
-		<mj-section
-			padding-bottom="0"
-			padding-top="0"
-			border-radius="20px 20px 0 0"
-		>
-			<mj-column>
-				<mj-image
-					padding-bottom="0"
 					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/3.png"
 					href="https://teamswitch.nl/blog/een-goede-band-met-je-relaties-begint-met-dit/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=relatiebeheer"
 				/>
@@ -226,7 +176,7 @@
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
 					Het tevreden houden van je huidige klanten gaat verder dan
-					alleen goed werk voor ze leven. Aandacht en warmte zijn ook
+					alleen goed werk voor ze leveren. Aandacht en warmte zijn ook
 					heel belangrijk. En dat kun je op verschillende manieren
 					bieden! In deze blog geven we je graag wat inspiratie! Klik
 					op de knop om alle vijf manieren te lezen!
@@ -269,6 +219,70 @@
 		<!-- spacing -->
 		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
 
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/2.png"
+					href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar"
+				/>
+				<mj-text mj-class="title">
+					Bijzonder boek voor bijzonder jubileum
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Voor het 25-jarig jubileum van Poundwise zette directeur
+					Marc van der Vuurst niet zichzelf, maar zijn relaties in het
+					zonnetje met een boek waarin zíj aan het woord zijn. Team
+					Switch bedacht het idee, verzorgde de copy, de opmaak en het
+					drukwerk van 25 verhalen over de emotie achter geld. Bekijk
+					de case op onze site!
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Bekijk de case</a
+						>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
 		<!-- article -->
 		<mj-section
 			padding-bottom="0"
@@ -290,8 +304,10 @@
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
 					- Wil je impact maken in de creatieve marketing? Bekijk dan
-					onze openstaande vacatures! - Team Switch liet scholieren
-					kennismaken met ’t vak op de Techniek Driedaagse - Lisanne,
+					onze openstaande vacatures! <br />
+					- Team Switch liet scholieren
+					kennismaken met ’t vak op de Techniek Driedaagse <br />
+					- Lisanne,
 					Tijmen en Daniël waren aanwezig bij de viering van 25 jaar
 					Poundwise waarbij ook het boek met 25 inspirerende verhalen
 					gepresenteerd werd.
