@@ -59,7 +59,7 @@
 		<mj-hero background-color="#ffffff">
 			<mj-image
 				padding-bottom="0px"
-				src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/0.jpg"
+				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/11/0.jpg"
 				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=header"
 				alt=""
 				border-radius="0"
@@ -100,7 +100,7 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/1-groen.png"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/11/1-groen.png"
 					href="https://open.spotify.com/episode/61Oru0t9K6jPsEWMkM0zJB"
 				/>
 				<mj-text mj-class="title">
@@ -164,7 +164,7 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/3.png"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/11/3.png"
 					href="https://teamswitch.nl/blog/een-goede-band-met-je-relaties-begint-met-dit/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=blog&utm_content=relatiebeheer"
 				/>
 				<mj-text mj-class="title">
@@ -227,7 +227,7 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/2.png"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/11/2.png"
 					href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief&utm_term=case&utm_content=case-poundwise-25-jaar"
 				/>
 				<mj-text mj-class="title">
@@ -292,7 +292,7 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://files.teamswitch.dev/newsletter/teamswitch/img/24/11/4.png"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/11/4.png"
 					href="https://www.instagram.com/teamswitch.nl/"
 				/>
 				<mj-text mj-class="title">
@@ -696,7 +696,7 @@
 			<mj-image
 				padding-top="0px"
 				padding-bottom="0px"
-				src="https://files.teamswitch.dev/newsletter/teamswitch/img/footer_mar23.png"
+				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/footer_mar23.png"
 				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=footer"
 				alt=""
 			/>
@@ -712,7 +712,7 @@
 						>info@teamswitch.nl</a
 					>
 					<img
-						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/seperator.png"
 						alt=""
 					/>
 					<a
@@ -722,7 +722,7 @@
 						>+31 297 52 55 80</a
 					>
 					<img
-						src="https://files.teamswitch.dev/newsletter/teamswitch/img/seperator.png"
+						src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/seperator.png"
 						alt=""
 					/>
 					<a

@@ -1,3 +1,8 @@
-Nieuwe buttons maken kan door het XD bestand 'Team Switch - nieuwsbrief en website' te openen in Adobe XD. Hierin staan de buttons, exporteer ze naar .png met 2x de resolutie (voor de retina schermen).
+## TeamSwitch nieuwsbrief repository
+Dit is de repository voor de nieuwsbrief van TeamSwitch. Hierin worden alle nieuwsbrieven opgeslagen en bijgehouden.
 
-De img map in deze repo is dezelfde die op https://files.teamswitch.dev/newsletter/teamswitch/ staat.
+## Hoe werkt het?
+De nieuwsbrief wordt geschreven in MJML en vervolgens omgezet naar HTML. De HTML wordt vervolgens via Mailchimp verstuurd naar de abbonees van de TeamSwitch nieuwsbrief.
+
+## Afbeeldingen
+Alle afbeeldingen die gebruikt worden in de nieuwsbrief worden opgeslagen in de map `img`, onder het juiste jaar en de juiste maand. Deze afbeeldingen worden vervolgens gelinkt in de nieuwsbrief.
