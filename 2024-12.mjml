@@ -100,35 +100,35 @@
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/1-groen.png"
-					href="https://open.spotify.com/episode/61Oru0t9K6jPsEWMkM0zJB"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/1.png"
+					href="https://teamswitch.nl/blog/een-frisse-start-in-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=een-frisse-start-in-2025"
 				/>
 				<mj-text mj-class="title">
-					Podcast: Luister jij wel écht naar de mens achter de klant?
+					Dit is hoe jouw merk komend jaar beter gaat scoren
 				</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Veel bedrijven focussen zich vooral op het binnenhalen van
-					nieuwe klanten. Terwijl het misschien nog wel veel
-					belangrijker is om je huidige klanten binnenboord te houden.
-					Maar hoe doe je dat? Kees Kerkvliet, directeur Tote-M en
-					docent Beeckestijn Business school, komt met praktische
-					tips!
+					Het nieuwe jaar komt er weer aan! Tijd om eens kritisch naar
+					jezelf te kijken. Hoe kunnen je sales komend jaar beter?
+					Past je on- en offline presentatie nog wel bij wie je bent?
+					Of belangrijker nog: kiest je doelgroep nog voor jou? In
+					onze blog geven we je praktische inzichten waarmee je zelf
+					kan kijken of jouw marketing nog up-to-date is!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://open.spotify.com/episode/61Oru0t9K6jPsEWMkM0zJB" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/een-frisse-start-in-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=een-frisse-start-in-2025" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://open.spotify.com/episode/61Oru0t9K6jPsEWMkM0zJB"
+							href="https://teamswitch.nl/blog/een-frisse-start-in-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=een-frisse-start-in-2025"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -142,71 +142,8 @@
 								width: 180px;
 								-webkit-text-size-adjust: none;
 							"
-							>Beluister de podcast</a
-						>
-						<!--[if mso]>
-                            </center>  
-                            </v:roundrect>
-                        <![endif]-->
-					</div>
-				</mj-raw>
-			</mj-column>
-		</mj-section>
-
-		<!-- spacing -->
-		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
-
-		<mj-section
-			padding-bottom="0"
-			padding-top="0"
-			border-radius="20px 20px 0 0"
-		>
-			<mj-column>
-				<mj-image
-					padding-bottom="0"
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/3.png"
-					href="https://teamswitch.nl/blog/een-goede-band-met-je-relaties-begint-met-dit/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=relatiebeheer"
-				/>
-				<mj-text mj-class="title">
-					Vijf manieren waarop je klanten óók blij maakt!
-				</mj-text>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" border-radius="0 0 20px 20px">
-			<mj-column width="380px" padding-right="20px">
-				<mj-text>
-					Het tevreden houden van je huidige klanten gaat verder dan
-					alleen goed werk voor ze leveren. Aandacht en warmte zijn
-					ook heel belangrijk. En dat kun je op verschillende manieren
-					bieden. In deze blog geven we je graag wat inspiratie. Klik
-					op de knop om alle vijf manieren te lezen!
-				</mj-text>
-			</mj-column>
-			<mj-column width="180px" vertical-align="bottom">
-				<mj-raw>
-					<div>
-						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/een-goede-band-met-je-relaties-begint-met-dit/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=relatiebeheer" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
-                            <w:anchorlock/>
-                            <center>
-                        <![endif]-->
-						<a
-							href="https://teamswitch.nl/blog/een-goede-band-met-je-relaties-begint-met-dit/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=relatiebeheer"
-							style="
-								background-color: #ff005b;
-								border-radius: 20px;
-								color: #ffffff;
-								display: inline-block;
-								font-family: Montserrat, sans-serif;
-								font-size: 14px;
-								line-height: 40px;
-								text-align: center;
-								text-decoration: none;
-								width: 180px;
-								-webkit-text-size-adjust: none;
-							"
-							>Lees de blog</a
-						>
+							>Lees de blog!
+						</a>
 						<!--[if mso]>
                             </center>  
                             </v:roundrect>
@@ -228,34 +165,35 @@
 				<mj-image
 					padding-bottom="0"
 					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/2.png"
-					href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=case-poundwise-25-jaar"
+					href="https://teamswitch.nl/klanten/van-den-pol/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=van-den-pol-case-2024"
 				/>
 				<mj-text mj-class="title">
-					Bijzonder boek voor bijzonder jubileum.
+					Een frisse nieuwe site voor Van den Pol Elektrotechniek
 				</mj-text>
 			</mj-column>
 		</mj-section>
 		<mj-section padding-top="0" border-radius="0 0 20px 20px">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Voor het 25-jarig jubileum van Poundwise zette directeur
-					Marc van der Vuurst niet zichzelf, maar zijn relaties in het
-					zonnetje met een boek waarin zíj aan het woord zijn. Team
-					Switch bedacht het idee, verzorgde de copy, de opmaak en het
-					drukwerk van 25 verhalen over de emotie achter geld. Bekijk
-					de case op onze site!
+					Nieuwe site, nieuwe energie! De elektro-experts van Van den
+					Pol Elektrotechniek kunnen hun diensten nu nóg beter
+					aanbieden op deze overzichtelijke website. Daarnaast vind je
+					op de site ook veel informatie over dit mooie
+					familiebedrijf. Want bij zo’n mooi merk past een mooie
+					online presentatie! Klik op de knop om de hele case te
+					bekijken!
 				</mj-text>
 			</mj-column>
 			<mj-column width="180px" vertical-align="bottom">
 				<mj-raw>
 					<div>
 						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=case-poundwise-25-jaar" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/klanten/van-den-pol/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=van-den-pol-case-2024" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
                             <w:anchorlock/>
                             <center>
                         <![endif]-->
 						<a
-							href="https://teamswitch.nl/cases/poundwise-25-jaar-poundwise-boek/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=case-poundwise-25-jaar"
+							href="https://teamswitch.nl/klanten/van-den-pol/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=van-den-pol-case-2024"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -269,7 +207,71 @@
 								width: 180px;
 								-webkit-text-size-adjust: none;
 							"
-							>Bekijk de case</a
+							>Bekijk de case
+						</a>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<mj-section
+			padding-bottom="0"
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
+				<mj-image
+					padding-bottom="0"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/3.png"
+					href="https://teamswitch.nl/producten/fixed-marketing-pakket/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=fixed-marketing-pakket"
+				/>
+				<mj-text mj-class="title">
+					Zorg dat je in 2025 non-stop aanwezig bent bij je doelgroep
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Het hele jaar door aanwezig zijn bij je doelgroep met social
+					media-posts, campagnes en content op je site gaat leiden tot
+					meer merkbeleving en meer sales. Kies je voor het Fixed
+					Marketing Pakket van Team Switch, dan gaan ál onze experts
+					iedere maand voor je aan de slag! Op eigen initiatief, of op
+					basis van jouw wensen. Lees meer op onze site:
+				</mj-text>
+			</mj-column>
+			<mj-column width="180px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/producten/fixed-marketing-pakket/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=fixed-marketing-pakket" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://teamswitch.nl/producten/fixed-marketing-pakket/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=fixed-marketing-pakket"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Lees meer</a
 						>
 						<!--[if mso]>
                             </center>  
@@ -287,7 +289,7 @@
 		<mj-section
 			padding-bottom="0"
 			padding-top="0"
-			border-radius="20px 20px 0 0"
+			border-radius="20px 20px 20px 20px"
 		>
 			<mj-column>
 				<mj-image
@@ -295,54 +297,6 @@
 					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/4.png"
 					href="https://www.instagram.com/teamswitch.nl/"
 				/>
-				<mj-text mj-class="title">
-					De laatste nieuwtjes over ‘t team.
-				</mj-text>
-			</mj-column>
-		</mj-section>
-		<mj-section padding-top="0" border-radius="0 0 20px 20px">
-			<mj-column width="380px" padding-right="20px">
-				<mj-text>
-					- Wil je impact maken in de creatieve marketing? Bekijk dan
-					onze openstaande vacatures! <br />
-					- Team Switch liet scholieren kennismaken met ’t vak op de
-					Techniek Driedaagse <br />
-					- Lisanne, Tijmen en Daniël waren aanwezig bij de viering
-					van 25 jaar Poundwise waarbij ook het boek met 25
-					inspirerende verhalen gepresenteerd werd.
-				</mj-text>
-			</mj-column>
-			<mj-column width="180px" vertical-align="bottom">
-				<mj-raw>
-					<div>
-						<!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/vacatures/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=switch-board" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
-                            <w:anchorlock/>
-                            <center>
-                        <![endif]-->
-						<a
-							href="https://teamswitch.nl/vacatures/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=switch-board"
-							style="
-								background-color: #ff005b;
-								border-radius: 20px;
-								color: #ffffff;
-								display: inline-block;
-								font-family: Montserrat, sans-serif;
-								font-size: 14px;
-								line-height: 40px;
-								text-align: center;
-								text-decoration: none;
-								width: 180px;
-								-webkit-text-size-adjust: none;
-							"
-							>Bekijk de vacatures</a
-						>
-						<!--[if mso]>
-                            </center>  
-                            </v:roundrect>
-                        <![endif]-->
-					</div>
-				</mj-raw>
 			</mj-column>
 		</mj-section>
 
@@ -366,11 +320,11 @@
 			</mj-column>
 		</mj-section>
 
-		<!-- *2 december: Cyber Monday
-		*7 december: Nationale vrijwilligersdag 
-		*12 december: Dag van de vrachtwagenchauffeur 
-		*21 december: Start van de winter 
-		*21 december: kortste dag van het jaar -->
+		<!-- - 5 januari: Nationale Stress Awareness Day
+		- 8 januari: Ruim je Bureau op Dag
+		- 14 januari: Wereld Logicadag
+		- 18 januari: Tulpendag 
+		- 20 januari: Blue Monday  -->
 
 		<mj-section mj-class="bg-green" padding="0 10px">
 			<mj-column width="290px" padding="0 10px 20px">
@@ -399,7 +353,7 @@
 										font-weight: bold;
 									"
 								>
-									Cyber Monday
+									Nationale Stress Awareness Day
 								</center>
 							</v:roundrect> <!
 						[endif]--><a
@@ -419,7 +373,7 @@
 								-webkit-text-size-adjust: none;
 								mso-hide: all;
 							"
-							>Cyber Monday</a
+							>Nationale Stress Awareness Day</a
 						>
 					</div>
 				</mj-raw>
@@ -450,7 +404,7 @@
 										font-weight: bold;
 									"
 								>
-									Nationale vrijwilligersdag
+									Ruim je Bureau op Dag
 								</center>
 							</v:roundrect> <!
 						[endif]--><a
@@ -470,7 +424,7 @@
 								-webkit-text-size-adjust: none;
 								mso-hide: all;
 							"
-							>Nationale vrijwilligersdag
+							>Ruim je Bureau op Dag
 						</a>
 					</div>
 				</mj-raw>
@@ -503,7 +457,7 @@
 										font-weight: bold;
 									"
 								>
-									Dag van de vrachtwagenchauffeur
+									Wereld Logicadag
 								</center>
 							</v:roundrect> <!
 						[endif]--><a
@@ -523,7 +477,7 @@
 								-webkit-text-size-adjust: none;
 								mso-hide: all;
 							"
-							>Dag van de vrachtwagenchauffeur</a
+							>Wereld Logicadag</a
 						>
 					</div>
 				</mj-raw>
@@ -554,7 +508,7 @@
 										font-weight: bold;
 									"
 								>
-									Start van de winter
+									Tulpendag
 								</center>
 							</v:roundrect> <!
 						[endif]--><a
@@ -574,7 +528,7 @@
 								-webkit-text-size-adjust: none;
 								mso-hide: all;
 							"
-							>Start van de winter</a
+							>Tulpendag</a
 						>
 					</div>
 				</mj-raw>
@@ -611,7 +565,7 @@
 										font-weight: bold;
 									"
 								>
-									Kortste dag van het jaar
+									Blue Monday
 								</center>
 							</v:roundrect> <!
 						[endif]--><a
@@ -631,7 +585,7 @@
 								-webkit-text-size-adjust: none;
 								mso-hide: all;
 							"
-							>Kortste dag van het jaar</a
+							>Blue Monday</a
 						>
 					</div>
 				</mj-raw>
