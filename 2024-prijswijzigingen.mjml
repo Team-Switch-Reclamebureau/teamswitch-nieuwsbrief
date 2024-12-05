@@ -1,0 +1,203 @@
+<mjml>
+	<mj-head>
+		<mj-title>Team Switch Prijsoverzicht online abonnementen</mj-title>
+		<mj-breakpoint width="600px" />
+		<mj-font
+			name="Montserrat"
+			href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+		></mj-font>
+		<mj-attributes>
+			<mj-all
+				font-family="Montserrat, Arial, sans-serif"
+				padding="0px"
+			></mj-all>
+			<mj-section padding="20px" background-color="#fff"></mj-section>
+			<mj-image padding-bottom="20px" border-radius="10px" />
+			<mj-button
+				border-radius="100px"
+				height="30px"
+				padding-bottom="20px"
+				font-size="14px"
+			>
+			</mj-button>
+			<mj-text
+				font-weight="400"
+				font-size="14px"
+				color="#000000"
+				line-height="20px"
+				padding="0"
+				padding-bottom="20px"
+			></mj-text>
+			<mj-class name="title" font-size="18px" font-weight="bold" />
+			<mj-class name="bg-pink" background-color="#ff005b" color="#fff" />
+			<mj-class name="pink" color="#ff005b" />
+			<mj-class name="bg-green" background-color="#3fa099" color="#fff" />
+			<mj-class name="green" color="#3fa099" />
+			<mj-class name="bg-grey" background-color="#eee" color="#333" />
+			<mj-class name="grey" color="#eee" />
+			<mj-class name="bg-white" background-color="#fff" color="#333" />
+			<mj-class name="white" color="#fff" />
+			<mj-class
+				name="inhaker"
+				background-color="transparent"
+				color="#fff"
+				border="solid 1px #fff"
+				font-size="12px"
+				width="260px"
+				padding="0 10px 0"
+				line-height="1.4"
+			/>
+			<mj-class
+				name="inhaker-leftt"
+				padding-right="10px"
+				padding-left="0"
+			/>
+		</mj-attributes>
+	</mj-head>
+	<mj-body mj-class="bg-grey" width="600px">
+		<!-- hero -->
+		<mj-hero background-color="#3fa099">
+			<mj-image
+				padding-bottom="0px"
+				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/0-prijswijzigingen.jpg"
+				href="https://teamswitch.nl/prijzen"
+				alt=""
+				border-radius="0"
+			/>
+		</mj-hero>
+
+		<mj-section background-color="#ffffff" padding-bottom="0" border-radius="0 0 20px 20px">
+			<mj-column>
+				<mj-text mj-class="title">
+					Prijsoverzicht online abonnementen 2025
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+		<!-- article -->
+		<mj-section
+			padding-bottom="0"
+			padding-top="20px"
+			border-radius="20px 20px 0 0"
+		>
+		</mj-section>
+		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px">
+				<mj-text>
+					Beste First name,<br><br>
+
+					Onze leveranciers voor de hosting, domeinnamen en plug-ins hebben het afgelopen jaar dikwijls hun tarieven verhoogd. Daarom zijn wij genoodzaakt om onze prijzen voor de online abonnementen per 1 januari 2025 te verhogen. <br><br>
+					Uw huidige abonnement bijft gewoon doorlopen uiteraard. Maar bij een hernieuwde periode krijgt u dus, een iets aangepast tarief. <br><br>
+					We hopen op uw begrip. U kunt onze nieuwe prijzen bekijken via deze knop. <br><br>
+				</mj-text>
+				
+			</mj-column>
+			<mj-column width="380px" vertical-align="bottom">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://teamswitch.nl/blog/een-frisse-start-in-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=een-frisse-start-in-2025" style="height:40px;v-text-anchor:middle;width:180px;" arcsize="50%" stroke="f" fillcolor="#ff005b">
+                            <w:anchorlock/>
+                            <center>
+                        <![endif]-->
+						<a
+							href="https://teamswitch.nl/prijzen"
+							style="
+								background-color: #ff005b;
+								border-radius: 20px;
+								color: #ffffff;
+								display: block;
+								font-family: Montserrat, sans-serif;
+								font-size: 14px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 180px;
+								-webkit-text-size-adjust: none;
+							"
+							>Bekijk prijsoverzicht
+						</a>
+						<!--[if mso]>
+                            </center>  
+                            </v:roundrect>
+                        <![endif]-->
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="380px" padding-right="20px" padding-top="40px">
+				<mj-text>
+					Heeft u vragen? Dan helpen wij u graag verder.<br>
+					Bel ons dan via <a href="tel:+31297525580">0297 52 55 80</a> of stuur een e-mail naar <a href="mailto:jeffrey@teamswitch.nl">jeffrey@teamswitch.nl</a>.<br><br>
+					Met vriendelijke groet,<br>
+					Jeffrey Kersloot<br>
+					Team Switch
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- spacing -->
+		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+
+		<!-- footer -->
+		<!-- <mj-hero>
+			<mj-image
+				padding-top="0px"
+				padding-bottom="0px"
+				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/footer_mar23.png"
+				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=footer"
+				alt=""
+			/>
+		</mj-hero> -->
+		<!-- contact alt -->
+		<mj-section padding-bottom="0" border-radius="20px">
+			<mj-column>
+				<mj-text align="center">
+					<a
+						href="mailto:info@teamswitch.nl"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>info@teamswitch.nl</a
+					>
+					<img
+						src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="tel:+31297525580"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>+31 297 52 55 80</a
+					>
+					<img
+						src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/seperator.png"
+						alt=""
+					/>
+					<a
+						href="https://teamswitch.nl/"
+						target="_blank"
+						style="color: #000000; text-decoration: none"
+						>TeamSwitch.nl</a
+					>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section padding="60px 20px 0px" mj-class="bg-grey">
+			<mj-column>
+				<mj-text font-size="12px" align="center">
+					Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
+					U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig afmelden.
+				</mj-text>
+				<mj-text font-size="12px" align="center">
+					Wilt u juist meer weten over Team Switch,<br />
+					dan kunt u een kijkje nemen op onze
+					<a href="https://teamswitch.nl/">website</a>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+	</mj-body>
+</mjml>
