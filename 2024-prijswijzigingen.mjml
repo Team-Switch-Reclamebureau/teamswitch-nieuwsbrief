@@ -1,6 +1,6 @@
 <mjml>
 	<mj-head>
-		<mj-title>Team Switch Prijsoverzicht online abonnementen</mj-title>
+		<mj-title>Team Switch - Prijsoverzicht online abonnementen</mj-title>
 		<mj-breakpoint width="600px" />
 		<mj-font
 			name="Montserrat"
@@ -56,9 +56,9 @@
 	</mj-head>
 	<mj-body mj-class="bg-grey" width="600px">
 		<!-- hero -->
-		<mj-hero background-color="#3fa099">
+		<mj-hero background-color="#fff">
 			<mj-image
-				padding-bottom="0px"
+				padding-bottom="20px"
 				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/0-prijswijzigingen.jpg"
 				href="https://teamswitch.nl/prijzen"
 				alt=""
@@ -66,35 +66,23 @@
 			/>
 		</mj-hero>
 
-		<mj-section background-color="#ffffff" padding-bottom="0" border-radius="0 0 20px 20px">
-			<mj-column>
+		<mj-section background-color="#ffffff" padding-bottom="0" border-radius="0">
+			<mj-column width="380px">
 				<mj-text mj-class="title">
 					Prijsoverzicht online abonnementen 2025
 				</mj-text>
 			</mj-column>
 		</mj-section>
-
-		<!-- spacing -->
-		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
-
-		<!-- article -->
-		<mj-section
-			padding-bottom="0"
-			padding-top="20px"
-			border-radius="20px 20px 0 0"
-		>
-		</mj-section>
-		<mj-section padding-top="0" border-radius="0 0 20px 20px">
+		<mj-section background-color="#ffffff" padding-bottom="0" border-radius="0">
 			<mj-column width="380px" padding-right="20px">
 				<mj-text>
-					Beste First name,<br><br>
+					Beste *|FNAME|*,<br><br>
 
-					Onze leveranciers voor de hosting, domeinnamen en plug-ins hebben het afgelopen jaar dikwijls hun tarieven verhoogd. Daarom zijn wij genoodzaakt om onze prijzen voor de online abonnementen per 1 januari 2025 te verhogen. <br><br>
-					Uw huidige abonnement bijft gewoon doorlopen uiteraard. Maar bij een hernieuwde periode krijgt u dus, een iets aangepast tarief. <br><br>
-					We hopen op uw begrip. U kunt onze nieuwe prijzen bekijken via deze knop. <br><br>
+					Onze leveranciers voor hosting, domeinnamen en plug-ins hebben hun tarieven het afgelopen jaar verhoogd. Daarom zijn wij genoodzaakt de prijzen voor onze online abonnementen ook iets te verhogen.<br><br> Uw abonnement blijft gewoon doorlopen, maar in de nieuwe periode krijgt u een iets gewijzigd tarief.<br><br> Via de onderstaande knop kunt u onze nieuwe prijzen bekijken. Alvast bedankt voor uw begrip!
 				</mj-text>
-				
 			</mj-column>
+		</mj-section>
+		<mj-section background-color="#ffffff" padding-bottom="0" border-radius="0">
 			<mj-column width="380px" vertical-align="bottom">
 				<mj-raw>
 					<div>
@@ -127,10 +115,12 @@
 					</div>
 				</mj-raw>
 			</mj-column>
-			<mj-column width="380px" padding-right="20px" padding-top="40px">
+		</mj-section>
+		<mj-section background-color="#ffffff" padding-bottom="0" border-radius="0 0 20px 20px">
+			<mj-column width="380px" padding-right="20px" padding-top="20px">
 				<mj-text>
-					Heeft u vragen? Dan helpen wij u graag verder.<br>
-					Bel ons dan via <a href="tel:+31297525580">0297 52 55 80</a> of stuur een e-mail naar <a href="mailto:jeffrey@teamswitch.nl">jeffrey@teamswitch.nl</a>.<br><br>
+					Heeft u vragen? Dan helpen wij u graag verder!<br>
+					U mag ons altijd bellen op <a target="_blank" href="tel:+31297525580">0297 52 55 80</a> of stuur een e-mail naar <a target="_blank" href="mailto:jeffrey@teamswitch.nl">jeffrey@teamswitch.nl</a>.<br><br>
 					Met vriendelijke groet,<br>
 					Jeffrey Kersloot<br>
 					Team Switch
