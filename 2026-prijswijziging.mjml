@@ -33,7 +33,7 @@
 			<mj-class name="pink" color="#ff005b" />
 			<mj-class name="bg-green" background-color="#3fa099" color="#fff" />
 			<mj-class name="green" color="#3fa099" />
-			<mj-class name="bg-grey" background-color="#252525" color="#fff" />
+			<mj-class name="bg-grey" background-color="#eee" color="#333" />
 			<mj-class name="grey" color="#eee" />
 			<mj-class name="bg-white" background-color="#fff" color="#333" />
 			<mj-class name="white" color="#fff" />
@@ -59,20 +59,17 @@
 		<mj-hero background-color="#ffffff">
 			<mj-image
 				padding-bottom="0px"
-				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/25/06/0.jpg"
+				src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/0.jpg"
 				href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=header"
 				alt=""
 				border-radius="0"
 			/>
 		</mj-hero>
 
-		<mj-section 
-			padding-bottom="0" 
-			border-radius="0"
-			>
+		<mj-section padding-bottom="0" border-radius="0">
 			<mj-column>
 				<mj-text mj-class="title">
-					Gebruik AI in je marketing (en maak je werk leuker)
+					Maak jouw merk sterk, sterker, sterkst in 2025
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -83,7 +80,9 @@
 		>
 			<mj-column>
 				<mj-text>
-					We kunnen niet meer om AI heen. En dat maakt sommige marketeers ook een beetje bang. Want wat als AI straks al het werk overneemt? Nonsens, vinden wij. Sterker nog, als je AI omarmt, wordt je werk misschien wel veel leuker! In onze blog lees je waarom. Aansluitend kun je meer lezen over een A tot Z beursaanpak voor Kragtwijk Special Food en een spectaculair woonweekend!
+					2025 komt eraan: is jouw merk klaar om te knallen? Of is het
+					tijd voor een frisse wind om écht impact te maken bij je
+					doelgroep? Wij helpen je op weg!
 				</mj-text>
 			</mj-column>
 		</mj-section>
@@ -96,11 +95,11 @@
 			padding-bottom="0"
 			padding-top="0"
 			border-radius="20px 20px 0 0"
-			>
+		>
 			<mj-column>
 				<mj-image
-					padding-bottom="20px"
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/25/06/1.png"
+					padding-bottom="0"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/1.png"
 					href="https://teamswitch.nl/blog/een-frisse-start-in-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=een-frisse-start-in-2025"
 				/>
 				<mj-text mj-class="title">
@@ -159,24 +158,16 @@
 
 		<mj-section
 			padding-bottom="0"
-			padding-top="0px"
-			padding-left="0px"
-			padding-right="0px"
-			>
-
-			<mj-column padding-top="0px" background-color="#fff">
+			padding-top="0"
+			border-radius="20px 20px 0 0"
+		>
+			<mj-column>
 				<mj-image
-					padding="0px"
-					padding-bottom="30px"
-					height="200px"
-					border-radius="20px 20px 0 0"
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/25/06/2.png"
+					padding-bottom="0"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/2.png"
 					href="https://teamswitch.nl/klanten/van-den-pol/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=van-den-pol-case-2024"
 				/>
-				<mj-text padding-bottom="0" padding-left="20px" padding-right="20px"  mj-class="green" font-weight="600" font-size="12px" line-height="1"  font-style="italic">
-					Blog
-				</mj-text>
-				<mj-text mj-class="title" padding-bottom="10px" line-height="2" padding-left="20px" padding-right="20px">
+				<mj-text mj-class="title">
 					Een frisse nieuwe site voor Van den Pol Elektrotechniek
 				</mj-text>
 			</mj-column>
@@ -233,10 +224,11 @@
 			padding-bottom="0"
 			padding-top="0"
 			border-radius="20px 20px 0 0"
-			>
+		>
 			<mj-column>
 				<mj-image
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/25/06/3.png"
+					padding-bottom="0"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/3.png"
 					href="https://teamswitch.nl/producten/fixed-marketing-pakket/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=case&utm_content=fixed-marketing-pakket"
 				/>
 				<mj-text mj-class="title">
@@ -293,19 +285,16 @@
 		<!-- spacing -->
 		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
 
-		<!-- article - switchboard -->
+		<!-- article -->
 		<mj-section
 			padding-bottom="0"
 			padding-top="0"
-			padding-left="0px"
-			padding-right="0px"
 			border-radius="20px 20px 20px 20px"
-			background-color="#252525"
-			>
+		>
 			<mj-column>
 				<mj-image
 					padding-bottom="0"
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/25/06/4.png"
+					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/24/12/4.png"
 					href="https://www.instagram.com/teamswitch.nl/"
 				/>
 			</mj-column>
@@ -314,34 +303,20 @@
 		<!-- spacing -->
 		<mj-section mj-class="bg-grey" padding="10px"></mj-section>
 
-
-		<!-- inhakers -->
-
 		<mj-section
 			mj-class="bg-green"
 			border-radius="20px 20px 0 0"
 			padding-bottom="0"
-			>
-			<mj-column>
-				<mj-text mj-class="title white">
-					In juli kun je deze dagen de sympathie van je doelgroep winnen!
-				</mj-text>
-				<mj-text mj-class="white">
-					Wil je voor het hele jaar weten op welke dagen je kunt scoren met leuke inhakers? Download dan onze inhaakkalender!
-				</mj-text>
-			</mj-column>
-		</mj-section>
-
-		<mj-section
-			padding="0 20px 20px"
-			background-color="#3fa099"
 		>
 			<mj-column>
-				<mj-image
-					padding-bottom="0"
-					src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/25/06/5.jpg"
-					href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-juni2025&utm_term=blog&utm_content=inhaakkalender-2025"
-				/>
+				<mj-text mj-class="title white">
+					In januari kun je op deze dagen de sympathie van je
+					doelgroep winnen!
+				</mj-text>
+				<mj-text mj-class="white">
+					Wil je voor ’t hele jaar weten op welke dagen je kunt scoren
+					met leuke inhakers? Download dan onze inhaakkalender!
+				</mj-text>
 			</mj-column>
 		</mj-section>
 
@@ -352,31 +327,6 @@
 		- 20 januari: Blue Monday  -->
 
 		<mj-section mj-class="bg-green" padding="0 10px">
-			<!-- <mj-column mj-class="bg-grey" width="290px" padding="10px 10px 10px 30px">
-				<mj-raw>
-					<div> -->
-						<!-- <a
-							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-juni2025&utm_term=blog&utm_content=inhaakkalender-2025"
-							style="
-								background-color: #fff;
-								border: 1px solid #ffffff;
-								border-radius: 20px;
-								color: #000;
-								display: inline-block;
-								font-family: Montserrat, sans-serif;
-								font-size: 12px;
-								line-height: 30px;
-								text-align: center;
-								text-decoration: none;
-								width: 260px;
-								-webkit-text-size-adjust: none;
-								mso-hide: all;
-							"
-							>1. <strong>Nat. Komkommerdag 🥒</strong></a
-						>
-					</div>
-				</mj-raw>
-			</mj-column> -->
 			<mj-column width="290px" padding="0 10px 20px">
 				<mj-raw>
 					<div>
@@ -384,7 +334,270 @@
 							<v:roundrect
 								xmlns:v="urn:schemas-microsoft-com:vml"
 								xmlns:w="urn:schemas-microsoft-com:office:word"
-								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-juni2025&utm_term=blog&utm_content=inhaakkalender-2025"
+								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Wereld Hypnosedag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Wereld Hypnosedag</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Ruim je Bureau op Dag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Ruim je Bureau op Dag
+						</a>
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+		<mj-section mj-class="bg-green" padding="0 10px">
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Wereld Logicadag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Wereld Logicadag</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Tulpendag
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Tulpendag</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+		</mj-section>
+		<mj-section
+			mj-class="bg-green"
+			padding="0 10px"
+			border-radius="0 0 20px 20px"
+		>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+								style="
+									height: 40px;
+									v-text-anchor: middle;
+									width: 260px;
+								"
+								arcsize="50%"
+								strokecolor="#ffffff"
+								fillcolor="#3fa099"
+							>
+								<w:anchorlock />
+								<center
+									style="
+										color: #ffffff;
+										font-family: sans-serif;
+										font-size: 13px;
+										font-weight: bold;
+									"
+								>
+									Blue Monday
+								</center>
+							</v:roundrect> <!
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
+							style="
+								background-color: #3fa099;
+								border: 1px solid #ffffff;
+								border-radius: 20px;
+								color: #ffffff;
+								display: inline-block;
+								font-family: Montserrat, sans-serif;
+								font-size: 12px;
+								line-height: 40px;
+								text-align: center;
+								text-decoration: none;
+								width: 260px;
+								-webkit-text-size-adjust: none;
+								mso-hide: all;
+							"
+							>Blue Monday</a
+						>
+					</div>
+				</mj-raw>
+			</mj-column>
+			<mj-column width="290px" padding="0 10px 20px">
+				<mj-raw>
+					<div>
+						<!--[if mso]>
+							<v:roundrect
+								xmlns:v="urn:schemas-microsoft-com:vml"
+								xmlns:w="urn:schemas-microsoft-com:office:word"
+								href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
 								style="
 									height: 40px;
 									v-text-anchor: middle;
@@ -402,12 +615,11 @@
 										font-size: 12px;
 									"
 								>
-									Download onze kalender
+									Download ‘m nu!
 								</center>
 							</v:roundrect> <!
-						[endif]-->
-						<a
-							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-juni2025&utm_term=blog&utm_content=inhaakkalender-2025"
+						[endif]--><a
+							href="https://teamswitch.nl/blog/inhaakkalender-2025/?utm_source=mail&utm_medium=mail&utm_campaign=nieuwsbrief-december24&utm_term=blog&utm_content=inhaakkalender-2025"
 							style="
 								background-color: #ff005b;
 								border-radius: 20px;
@@ -422,7 +634,7 @@
 								-webkit-text-size-adjust: none;
 								mso-hide: all;
 							"
-							>Download onze kalender</a
+							>Download ‘m nu!</a
 						>
 					</div>
 				</mj-raw>
@@ -477,11 +689,11 @@
 		</mj-section>
 		<mj-section padding="60px 20px 0px" mj-class="bg-grey">
 			<mj-column>
-				<mj-text font-size="12px" align="center" color="#fff">
+				<mj-text font-size="12px" align="center">
 					Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
 					U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig afmelden.
 				</mj-text>
-				<mj-text font-size="12px" align="center" color="#fff">
+				<mj-text font-size="12px" align="center">
 					Wilt u juist meer weten over Team Switch,<br />
 					dan kunt u een kijkje nemen op onze
 					<a href="https://teamswitch.nl/">website</a>.
