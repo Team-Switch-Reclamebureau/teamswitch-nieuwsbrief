@@ -1,0 +1,157 @@
+<mjml>
+  <mj-head>
+    <mj-title>Team Switch Nieuwsbrief</mj-title>
+    <mj-breakpoint width="600px" />
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+    ></mj-font>
+    <mj-attributes>
+      <mj-all
+        font-family="Montserrat, Arial, sans-serif"
+        padding="0px"
+      ></mj-all>
+      <mj-section padding="20px" background-color="#fff"></mj-section>
+      <mj-image padding-bottom="20px" border-radius="10px" />
+      <mj-button
+        border-radius="100px"
+        height="30px"
+        padding-bottom="20px"
+        font-size="14px"
+      >
+      </mj-button>
+      <mj-text
+        font-weight="400"
+        font-size="14px"
+        color="#000000"
+        line-height="20px"
+        padding="0"
+        padding-bottom="20px"
+      ></mj-text>
+      <mj-class name="title" font-size="18px" font-weight="bold" />
+      <mj-class name="bg-pink" background-color="#ff005b" color="#fff" />
+      <mj-class name="pink" color="#ff005b" />
+      <mj-class name="bg-green" background-color="#3fa099" color="#fff" />
+      <mj-class name="green" color="#3fa099" />
+      <mj-class name="bg-grey" background-color="#eee" color="#333" />
+      <mj-class name="grey" color="#eee" />
+      <mj-class name="bg-white" background-color="#fff" color="#333" />
+      <mj-class name="white" color="#fff" />
+      <mj-class
+        name="inhaker"
+        background-color="transparent"
+        color="#fff"
+        border="solid 1px #fff"
+        font-size="12px"
+        width="260px"
+        padding="0 10px 0"
+        line-height="1.4"
+      />
+      <mj-class name="inhaker-leftt" padding-right="10px" padding-left="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="bg-grey" width="600px">
+    <!-- hero -->
+    <mj-hero background-color="#ffffff">
+      <mj-image
+        padding-bottom="0px"
+        src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/26/header-vrijmibi.jpg"
+        href="https://teamswitch.nl/?utm_source=nieuwsbrief&utm_medium=e-mail&utm_campaign=sep&utm_content=header"
+        alt=""
+        border-radius="0"
+      />
+    </mj-hero>
+
+    <mj-section padding-bottom="0" border-radius="0">
+      <mj-column>
+        <mj-text mj-class="title"> Uitnodiging lancering Vrijmibi </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding-top="0"
+      padding-bottom="0"
+      border-radius="0 0 20px 20px"
+    >
+      <mj-column>
+        <mj-text>
+          Hoi!<br />
+          <br />Misschien weet je het al, misschien nog niet, maar Team Switch
+          heeft sinds kort een eigen biertje: Vrijmibi.<br />
+          <br />Je raadt het al: die naam staat natuurlijk voor
+          ‘Vrijdagmiddag-biertje’, een knipoog naar de ‘Vrijmibo’.<br />
+          <br />Waarom? Omdat wij geloven dat de vrijdagmiddagborrel het moment
+          is waarop je samen de successen van de afgelopen week viert. En omdat
+          je, onder het genot van een koud biertje (of frisje), ook áltijd weer
+          tot goede ideeën komt voor de volgende week. Speciaal voor dat moment
+          hebben wij een fris, zomers bier ontwikkeld.<br />
+          <br />Dit bier willen wij op
+          <strong>vrijdag 5 juni om 16.30 uur</strong> officieel lanceren in
+          onze eigen bar op de <strong>Rendementsweg 2-q in Mijdrecht</strong>.
+          En we nodigen je van harte uit om te komen!<br />
+          <br />Wij zorgen aansluitend dat er wat te snacken valt. En uiteraard
+          krijg je een paar Vrijmibi’s mee voor thuis. Laat je even weten of je
+          komt? Dat mag je doorgeven aan
+          <a href="mailto:tijmen@teamswitch.nl">tijmen@teamswitch.nl</a>!<br />
+          <br />We zien je dan!<br />
+          <br />Met hartelijke groet,<br />
+          <br />Team Switch<br />
+          <br /><em>
+            PS. Natuurlijk ben je iedere vrijdag welkom vanaf een uurtje of half
+            5. Dat je het weet!
+          </em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- spacing -->
+    <mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+    <!-- contact alt -->
+    <mj-section padding-bottom="0" border-radius="20px">
+      <mj-column>
+        <mj-text align="center">
+          <a
+            href="mailto:info@teamswitch.nl"
+            target="_blank"
+            style="color: #000000; text-decoration: none"
+            >info@teamswitch.nl</a
+          >
+          <img
+            src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/seperator.png"
+            alt=""
+          />
+          <a
+            href="tel:+31297525580"
+            target="_blank"
+            style="color: #000000; text-decoration: none"
+            >+31 297 52 55 80</a
+          >
+          <img
+            src="https://team-switch-reclamebureau.github.io/teamswitch-nieuwsbrief/img/seperator.png"
+            alt=""
+          />
+          <a
+            href="https://teamswitch.nl/"
+            target="_blank"
+            style="color: #000000; text-decoration: none"
+            >TeamSwitch.nl</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="60px 20px 0px" mj-class="bg-grey">
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          Wilt u onze nieuwsbrieven niet meer ontvangen?<br />
+          U kunt zich <a href="*|UNSUB|*">hier</a> eenvoudig afmelden.
+        </mj-text>
+        <mj-text font-size="12px" align="center">
+          Wilt u juist meer weten over Team Switch,<br />
+          dan kunt u een kijkje nemen op onze
+          <a href="https://teamswitch.nl/">website</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-hero padding-top="60px" background-color="transparent"> </mj-hero>
+  </mj-body>
+</mjml>
