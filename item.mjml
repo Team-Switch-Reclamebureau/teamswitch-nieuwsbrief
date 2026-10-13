@@ -1,0 +1,40 @@
+<!-- spacing -->
+<mj-section mj-class="bg-grey" padding="10px"></mj-section>
+
+<!-- article -->
+<mj-section padding-bottom="0" padding-top="0" border-radius="20px 20px 0 0">
+	<mj-column>
+		<mj-image
+			padding-bottom="20px"
+			src="{{ image:image }}"
+			href="{{ url:link }}"
+		/>
+		<mj-text mj-class="title">
+			{{ text:title }}
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section padding-top="0" border-radius="0 0 20px 20px">
+	<mj-column width="380px" padding-right="20px">
+		<mj-text>
+			{{ textarea:intro }}
+		</mj-text>
+	</mj-column>
+	<mj-column width="180px" vertical-align="bottom">
+		<mj-raw>
+			<div> <!--[if mso]> <v:roundrect
+			xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ url:link
+
+			}}" style="height:40px;v-text-anchor:middle;width:180px;"
+			arcsize="50%" stroke="f" fillcolor="#ff005b"> <w:anchorlock/>
+			<center> <![endif]--> <a href="{{ url:link }}" style="
+			background-color: #ff005b; border-radius: 20px; color: #ffffff;
+			display: inline-block; font-family: Montserrat, sans-serif;
+			font-size: 14px; line-height: 40px; text-align: center;
+			text-decoration: none; width: 180px; -webkit-text-size-adjust: none;
+			" >{{ text:button }} </a> <!--[if mso]> </center> </v:roundrect>
+			<![endif]--> </div>
+		</mj-raw>
+	</mj-column>
+</mj-section>
